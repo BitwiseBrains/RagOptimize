@@ -1,0 +1,233 @@
+Haircut (finance) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1SEC net capital rule
+2ECB use of haircuts
+3LTCM and haircut fees
+4As used for exchange-traded products
+5In sovereign debt write-downs
+6Notes
+7References
+8External links
+Toggle the table of contents
+Haircut (finance)
+5 languages
+ΕλληνικάFrançaisPortuguêsTürkçe中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Financial terminology
+In finance, a haircut is the difference between the current market value of an asset and the value ascribed to that asset for purposes of calculating regulatory capital or loan collateral. The amount of the haircut reflects the perceived risk of the asset falling in value in an immediate cash sale or liquidation. The larger the risk or volatility of the asset price, the larger the haircut.
+For example, United States Treasury bills, which are relatively safe and highly liquid assets, have little or no haircut, whereas more volatile or less marketable assets might have haircuts as high as 50%.
+Lower haircuts allow for more leverage. Haircut plays an important role in many kinds of trades, such as repurchase agreements (referred to in debt-instrument finance as "repo" but not to be confused with the concept of repossession denoted by that term in consumer finance) and reverse repurchase agreements ("reverse repo" in debt-instrument finance).
+In mass media, as well as in economics texts, especially after the financial crisis of 2007–2008, the term "haircut" has been used mostly to denote a reduction of the amount that will be repaid to creditors, or, in other words, a reduction in the face value of a troubled borrower's debts,[note 1]  as in "to take a haircut": to accept or receive less than is owed. In 2012, world media was reporting on the "biggest debt-restructuring deal in history",: 1  which included the "very large haircut" of some "70 percent of par value" of Greek state bonds, in NPV terms.: 27
+SEC net capital rule[edit]
+The financial term "haircut" began, and continues to be used, as a reference to valuation discounts applied under the U.S. Securities and Exchange Commission's net capital rule. The net capital rule was adopted to provide safeguards for public investors by setting standards of financial responsibility to be met by broker-dealers and requires a broker-dealer to have at all times sufficient liquid assets to cover its current indebtedness. The SEC explained the role of haircuts in calculating net capital in 1967:
+In computing "net capital," the rule requires deductions from "net worth" of certain specified percentages of the market values of marketable securities and future commodity contracts, long and short, in the capital and proprietary accounts of the broker or dealer, and in the "accounts of partners." (These deductions are generally referred to in the industry as "haircuts.") . . . The purpose of these deductions from "net worth," is to provide a margin of safety against losses incurred by a broker or dealer as a result of market fluctuations in the prices of such securities or future commodity contracts.
+"Haircut" since has been extended to a number of other financial contexts, whenever it is desirable to show that some securities (typically debt securities) are being valued for some purpose at a discount.
+ECB use of haircuts[edit]
+The European Central Bank applies a haircut to all securities offered as collateral. The size of the haircut depends on the riskiness and liquidity of the security offered as collateral.
+LTCM and haircut fees[edit]
+The hedge fund Long Term Capital Management (LTCM) saw spectacular losses that led to its dissolution in 1998. It had previously been able to trade with little collateral on positions that were considered safe by its lenders.[citation needed]
+As used for exchange-traded products[edit]
+When used in the context of exchange traded products such as stocks, options, or futures, haircut is used interchangeably with the term margin. It is the amount of capital required by a broker to maintain the positions currently in a trading account. If haircut exceeds the account's capital, the broker can either require additional capital (e.g., margin call), or liquidate positions until the haircut no longer exceeds available capital.
+In sovereign debt write-downs[edit]
+During the Eurozone crisis, and particularly in the context of the Greek financial crisis, the term "haircut" acquired more specifically the meaning of state-debt holders receiving less than par.: 27  It's "the market's euphemism for wiping out a large portion of the debt owed to the creditors".
+The haircut agreed to by Greek-state debt holders was deemed "voluntary" by the banks' chief negotiator Charles Dallara, although, in order to convince domestic bond holders, the Greek government "made it clear that holdouts would not receive a sweeter deal", while it also  declared that if the haircut was not completed, the Greek state would not be able to "further service its debt".
+Notes[edit]
+^ Not just state- but also corporate-debt. See "Private equity firm bosses to get $370M windfall in Caesars mess", The New York Post, 22 August 2016
+References[edit]
+^ Safire, William (6 January 2009). "Haircut". The New York Times. Retrieved 3 July 2018.
+^ a b "All Greek to you? Greece's debt jargon explained". BBC. 10 July 2015. Retrieved 3 July 2018.
+^ a b Clinch, Mark (19 August 2015). "Why the IMF is wrong on a Greek debt haircut". CNBC. Retrieved 3 July 2018.
+^ Brigham, Eugene F.; Houston, Joel F. (2011). Fundamentals of Financial Management. Cengage Learning. ISBN 978-0538477116.
+^ Blundell-Wignall, Adrian; Slovik, Patrick (February 2011). "A Market Perspective on the European Sovereign Debt and Banking Crisis" (PDF). Financial Market Trends. 2010 (2). OECD: 87–108.
+^ "Ukraine creditors' debt plan shows bond haircut inevitable". Reuters. 29 May 2015. Retrieved 3 July 2018.
+^ "What is a Haircut (in finance)?". Corporate Finance Institute. Retrieved 3 July 2018.
+^ a b c Liu, Yan; Bergthaler, Wolfgang; Giddings, Andrew; Kosonen, Amanda; Papaioannou, Michael; Grigorian, David; Guscina, Anastasia; Presciuttini, Gabriel; Tsuda, Takahiro; Baqir, Reza (26 April 2013). "Sovereign Debt Restructuring: Recent Developments and Implications" (PDF). Policy Papers. IMF. Retrieved 30 June 2018.
+^ Net Capital Requirements for Brokers and Dealers - Interpretation and Guide, Release Nos. ASR-107, 34-8024, 32 Fed. Reg. 856, 1967 WL 88933 (Jan. 18, 1967).
+^ ECB Risk control framework
+^ Parkinson, David (12 July 2011). "Rollover? Haircut? Greece faces ugly choices". The Globe and Mail. Retrieved 3 July 2018.
+^ Wautelet, Patrick R. (2 July 2013). "The Greek Debt Restructuring and Property Rights: A Greek Tragedy for Investors?" (PDF). University of Liège). Retrieved 3 July 2018.
+External links[edit]
+Collateral Management on Financial-edu
+Haircut on Investopedia
+Collateral Value on Investopedia
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Haircut_(finance)&oldid=1214542008"
+Categories: LoansBond valuationCreditHidden categories: Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from January 2020
+This page was last edited on 19 March 2024, at 16:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

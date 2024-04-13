@@ -4,3 +4,4 @@ __pycache__
 # wandb files
 wandb
 .vscode
+chroma_db

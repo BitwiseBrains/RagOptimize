@@ -1,0 +1,96 @@
+Inter-dealer broker - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Fixed income securities
+2References
+3External links
+Toggle the table of contents
+Inter-dealer broker
+Add languages
+Add links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Financial intermediary
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Inter-dealer broker" – news · newspapers · books · scholar · JSTOR (June 2008) (Learn how and when to remove this template message)
+This article relies excessively on references to primary sources. Please improve this article by adding secondary or tertiary sources. Find sources: "Inter-dealer broker" – news · newspapers · books · scholar · JSTOR (June 2008) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+An Inter-dealer broker (IDB) is specialist financial intermediary that facilitates transactions between broker-dealers, dealer banks and other financial institutions rather than private individuals.
+IDBs act as intermediaries in the financial markets working to facilitate transactions between broker/dealers and dealer banks in markets where there is no centralised exchange or market maker such as in the bond market. The largest inter-dealer brokers by trade volume, listed in alphabetical order, are:
+BGC Partners
+GFI Group Inc. (acquired by BGC Partners in 2016 but still operates as a division under its own name)
+TP ICAP Plc
+Global Credit Securities LLP
+Gottex Brokers SA.
+Louis Capital Markets LLP
+PO Capital Markets Pty Ltd.
+Refinitiv Transaction Services Ltd
+Tradition (UK) Ltd.
+Vantage Capital Markets LLP.
+Fixed income securities[edit]
+In the fixed income markets, IDBs are specialized securities companies serving as intermediaries which facilitate transactions between broker/dealers and dealer banks in the debt markets.
+Broker/dealers and other financial institutions utilize the secondary fixed income markets to execute their customers’ orders, trade for a profit and manage their exposure to risk, including credit, interest rate and exchange rate risks. There is no centralized exchange in the fixed income market. As a result, financial institutions need a way to find information, liquidity and anonymity for their trading activity. This need created a demand for the services of perhaps the least known and understood market participants, IDBs.
+IDBs in the secondary government, agencies, corporate and other debt markets, also known as “municipal securities broker’s brokers” in the municipal bond markets, are specialized securities companies who act as intermediaries working to facilitate transactions between broker/dealers and dealer banks in these markets. IDBs are sometimes described as providing a “Petri dish” of liquidity in the bond markets. That is, they provide a “nurturing environment” wherein market participants can ascertain information about a given market, thereby eventually facilitating a trade between buyers and sellers.
+The IDB community distributes information and facilitates transactions in the secondary, or wholesale, financial debt markets between dealers and dealer banks around the world. Typically, markets which make extensive use of IDBs include the corporate bond, fixed income derivatives, U.S. Government and Agency, municipal securities and emerging markets.
+Inter-dealer brokers play varying roles in each of the fixed income markets and have become instrumental to their effectiveness and efficiency. IDBs draw together buyers and sellers so that trades can be executed by market participants.  IDBs provide potential buyers and sellers with the critical market information they need to trade.
+Inter-dealer brokers allow;
+Enhancing price discovery and transparency via communicating dealer interests and transactions
+Providing anonymity and confidentiality via their position in the “middle” of trades
+Facilitating information flow via acting as a central information point
+Facilitating enhanced liquidity via their broad range of contacts
+Improving market efficiency via their rapid access to liquidity
+Lowering costs via their provision of prices to traders without incurring staffing costs
+Faster processing of trades via new technologies
+References[edit]
+^ http://chicagofed.org/digital_assets/publications/understanding_derivatives/understanding_derivatives_chapter_3_over_the_counter_derivatives.pdf [bare URL PDF]
+^ Inc, BGC Partners, Inc ; GFI Group. "BGC Partners Completes Full Merger with GFI Group". www.prnewswire.com (Press release). Retrieved 2023-03-29. {{cite press release}}: |last= has generic name (help)CS1 maint: multiple names: authors list (link)
+^ "Investor Relations". GFI Group. Retrieved 2023-03-29.
+^ From the Securities Industry and Financial Markets Association’s educational piece explaining the role of Interdealer Brokers.
+External links[edit]
+Understanding Derivatives: Markets and Infrastructure - Chapter 3, Over-the-Counter (OTC) Derivatives Federal Reserve Bank of Chicago, Financial Markets Group
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Inter-dealer_broker&oldid=1215870568"
+Category: Fixed incomeHidden categories: All articles with bare URLs for citationsArticles with bare URLs for citations from March 2022Articles with PDF format bare URLs for citationsCS1 errors: generic nameCS1 maint: multiple names: authors listArticles with short descriptionShort description matches WikidataArticles needing additional references from June 2008All articles needing additional referencesArticles lacking reliable references from June 2008All articles lacking reliable referencesArticles with multiple maintenance issues
+This page was last edited on 27 March 2024, at 16:47 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

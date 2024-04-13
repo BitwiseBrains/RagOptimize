@@ -1,0 +1,266 @@
+DuPont analysis - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Basic formula
+2ROE analysis
+Toggle ROE analysis subsection
+2.1High margin industries
+2.2High turnover industries
+2.3High leverage industries
+3ROA and ROE ratio
+4References
+5External links
+Toggle the table of contents
+DuPont analysis
+14 languages
+العربيةAzərbaycancaCatalàČeštinaDanskDeutschFrançaisעבריתLietuviųМакедонскиNederlandsPolskiРусский中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Expression which breaks ROE (return on equity) into three parts
+Graphical representation of DuPont analysis.
+DuPont analysis (also known as the DuPont identity, DuPont equation, DuPont framework, DuPont model, DuPont method or DuPont system) is a tool used in financial analysis, where return on equity (ROE) is separated into its component parts.
+Useful in several contexts, this "decomposition" of ROE allows financial managers to focus on the key metrics of financial performance individually, and thereby to identify strengths and weaknesses within the company that should be addressed. Similarly, it allows investors to compare the operational efficiency of two comparable firms.
+The name derives from the DuPont company, which began using this formula in the 1920s. A DuPont explosives salesman, Donaldson Brown, submitted an internal efficiency report to his superiors in 1912 that contained the formula.
+Basic formula[edit]
+The DuPont analysis breaks down ROE into three component parts, which may then be managed individually:
+Profitability: measured by profit margin
+Asset efficiency: measured by asset turnover
+Financial leverage: measured by equity multiplier
+ROE = (Profit margin)×(Asset turnover)×(Equity multiplier) = Net profit/Sales×Sales/Average Total Assets×Average Total Assets/Average Equity = Net Profit/Equity
+Or
+ROE = Profit/Sales×Sales/Assets = Profit/Assets×Assets/Equity
+Or
+ROE = ROS×AT = ROA×Leverage
+ROE analysis[edit]
+The DuPont analysis breaks down ROE (that is, the returns that investors receive from a single dollar of equity) into three distinct elements. This analysis enables the manager or analyst to understand the source of superior (or inferior) return by comparison with companies in similar industries (or between industries). See Return on equity § The DuPont formula for further context.
+The DuPont analysis is less useful for industries such as investment banking, in which the underlying elements are not meaningful (see related discussion: Valuation (finance) § Valuing financial services firms). Variations of the DuPont analysis have been developed for industries where the elements are weakly meaningful,[citation needed] for example:
+High margin industries[edit]
+Some industries, such as the fashion industry, may derive a substantial portion of their income from selling at a higher margin, rather than higher sales. For high-end fashion brands, increasing sales without sacrificing margin may be critical. The DuPont analysis allows analysts to determine which of the elements is dominant in any change of ROE.
+High turnover industries[edit]
+Certain types of retail operations, particularly stores, may have very low profit margins on sales, and relatively moderate leverage. In contrast, though, groceries may have very high turnover, selling a significant multiple of their assets per year. The ROE of such firms may be particularly dependent on performance of this metric, and hence asset turnover may be studied extremely carefully for signs of under-, or, over-performance. For example, same-store sales of many retailers is considered important as an indication that the firm is deriving greater profits from existing stores (rather than showing improved performance by continually opening stores).
+High leverage industries[edit]
+Some sectors, such as the financial sector, rely on high leverage to generate acceptable ROE. Other industries would see high levels of leverage as unacceptably risky. DuPont analysis enables third parties that rely primarily on their financial statements to compare leverage among similar companies.
+ROA and ROE ratio[edit]
+The return on assets (ROA) ratio developed by DuPont for its own use is now used by many firms to evaluate how effectively assets are used. It measures the combined effects of profit margins and asset turnover.
+ROA
+Net Income
+Revenue
+Revenue
+Average Total Assets
+Net income
+Average Total Assets
+{\displaystyle {\text{ROA}}={\frac {\text{Net Income}}{\text{Revenue}}}\times {\frac {\text{Revenue}}{\text{Average Total Assets}}}={\frac {\text{Net income}}{\text{Average Total Assets}}}}
+The return on equity (ROE) ratio is a measure of the rate of return to stockholders. Decomposing the ROE into various factors influencing company performance is often called the DuPont system.
+ROE
+Net Income
+Average Total Equity
+Net Income
+Pretax Income
+Pretax Income
+EBIT
+EBIT
+Revenue
+Revenue
+Average Total Assets
+Average Total Assets
+Average Total Equity
+{\displaystyle {\text{ROE}}={\frac {\text{Net Income}}{\text{Average Total Equity}}}={\frac {\text{Net Income}}{\text{Pretax Income}}}\times {\frac {\text{Pretax Income}}{\text{EBIT}}}\times {\frac {\text{EBIT}}{\text{Revenue}}}\times {\frac {\text{Revenue}}{\text{Average Total Assets}}}\times {\frac {\text{Average Total Assets}}{\text{Average Total Equity}}}}
+Where
+Net Income = pre-tax income after taxes
+Equity = shareholders' equity
+EBIT = Earnings before interest and taxes
+Pretax Income is often reported as Earnings Before Taxes or EBT
+This decomposition presents various ratios used in fundamental analysis.
+The company's tax burden is (Net income ÷ Pretax profit). This is the proportion of the company's profits retained after paying income taxes. [NI/EBT]
+The company's interest burden is (Pretax income ÷ EBIT). This will be 1.00 for a firm with no debt or financial leverage. [EBT/EBIT]
+The company's operating income margin or return on sales (ROS) is (EBIT ÷ Revenue). This is the operating income per dollar of sales. [EBIT/Revenue]
+The company's asset turnover (ATO) is (Revenue ÷ Average Total Assets).
+The company's equity multiplier is (Average Total Assets ÷ Average Total Equity). This is a measure of financial leverage.
+References[edit]
+^ a b Marshall Hargrave (2022). Dupont Analysis, Investopedia.
+^ Phillips, Matt (9 December 2015). "The DuPont invention that changed how things work in the corporate world". Quartz (publication). Retrieved 9 December 2015.
+^ Groppelli, Angelico A.; Ehsan Nikbakht (2000). Finance, 4th ed. Barron's Educational Series, Inc. pp. 444–445. ISBN 0-7641-1275-9.
+^ Groppelli, Angelico A.; Ehsan Nikbakht (2000). Finance, 4th ed. Barron's Educational Series, Inc. p. 444. ISBN 0-7641-1275-9.
+^ Bodie, Zane; Alex Kane; Alan J. Marcus (2004). Essentials of Investments, 5th ed. McGraw-Hill Irwin. pp. 458–459. ISBN 0-07-251077-3.
+External links[edit]
+Decoding DuPont Analysis
+DuPont analysis
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Retrieved from "https://en.wikipedia.org/w/index.php?title=DuPont_analysis&oldid=1192468149"
+Categories: Financial ratiosDuPontHidden categories: Articles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from February 2019
+This page was last edited on 29 December 2023, at 14:55 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

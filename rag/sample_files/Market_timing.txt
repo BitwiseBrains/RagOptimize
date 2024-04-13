@@ -1,0 +1,355 @@
+Market timing - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Approaches
+2Mutual funds
+3Viability of market timing
+4See also
+5References
+6External links
+Toggle the table of contents
+Market timing
+3 languages
+العربيةDeutschSuomi
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Market timing is the strategy of making buying or selling decisions of financial assets (often stocks) by attempting to predict future market price movements. The prediction may be based on an outlook of market or economic conditions resulting from technical or fundamental analysis. This is an investment strategy based on the outlook for an aggregate market rather than for a particular financial asset.
+The efficient-market hypothesis is an assumption that asset prices reflect all available information, meaning that it is theoretically impossible to systematically "beat the market."
+Approaches[edit]
+Market timing can cause poor performance.
+After fees, the average "trend follower" does not show skills or abilities compared to benchmarks. "Trend Tracker" reported returns are distorted by survivor bias, selection bias, and fill bias.
+At the Federal Reserve Bank of St. Louis, YiLi Chien, Senior Economist wrote about return-chasing behavior. The average equity mutual fund investor tends to buy mutual funds with high past returns and sell otherwise. Buying mutual funds with high returns is called a “return-chasing behavior.” Equity mutual fund flows have a positive correlation with past performance, with a return-flow correlation coefficient of 0.49.  Stock market returns are almost unpredictable in the short term.  Stock market returns tend to go back to the long-term average. The tendency to buy mutual funds with high returns and sell those with low returns can reduce profit.
+Institutional investors often use proprietary market-timing software developed internally that can be a trade secret. Some algorithms attempt to predict the future superiority of stocks versus bonds (or vice versa), have been published in peer-reviewed journals.
+Market timing often looks at moving averages such as 50- and 200-day moving averages (which are particularly popular). Some people believe that if the market has gone above the 50- or 200-day average that should be considered bullish, or below conversely bearish. Technical analysts consider it significant when one moving average crosses over another. The market timers then predict that the trend will, more likely than not, continue in the future. Others say, "nobody knows" and that world economies and stock markets are of such complexity that market-timing strategies are unlikely to be more profitable than buy-and-hold strategies.
+Moving average strategies are simple to understand, and often claim to give good returns, but the results may be confused by hindsight and data mining.
+A major stumbling block for many market timers is a phenomenon called "curve fitting", which states that a given set of trading rules tends to be over-optimized to fit the particular dataset for which it has been back-tested. Unfortunately, if the trading rules are over-optimized they often fail to work on future data. Market timers attempt to avoid these problems by looking for clusters of parameter values that work well or by using out-of-sample data, which ostensibly allows the market timer to see how the system works on unforeseen data. Critics, however, argue that once the strategy has been revised to reflect such data it is no longer "out-of-sample".
+Mutual funds[edit]
+Mutual fund flows are published by organizations like Investment Company Institute, Lipper, Morningstar, and TrimTabs. They show that flows generally track the overall level of the market: investors buy stocks when prices are high, and sell stocks when prices are low. For example, in the beginning of the 2000s, the largest inflows to stock mutual funds were in early 2000 while the largest outflows were in mid-2002. These mutual fund flows were near the start of a significant bear (downtrending) market and bull (uptrending) market respectively. A similar pattern is repeated near the end of the decade.
+This mutual fund flow data seems to indicate that most investors (despite what they may say) actually follow a buy-high, sell-low strategy. Studies confirm that the general tendency of investors is to buy after a stock or mutual fund price has increased. This surge in the number of buyers may then drive the price even higher. However, eventually, the supply of buyers becomes exhausted, and the demand for the stock declines and the stock or fund price also declines. After inflows, there may be a short-term boost in return, but the significant result is that the return over a longer time is disappointing.
+Researchers suggest that, after periods of higher returns, individual investors will sell their value stocks and buy growth stocks. Frazzini and Lamont find that, in general, growth stocks have a lower return, but growth stocks with high inflows have a much worse return.
+Studies find that the average investor's return in stocks is much less than the amount that would have been obtained by simply holding an index fund consisting of all stocks contained in the S&P 500 index.
+For the 20-year period to the end of 2008, the inflation-adjusted market return was about 5.3% on average per year. The average investor managed to turn $1 million into $800,000, against $2.7 million for the index (after fund costs).
+Studies by the financial services market research company Dalbar say that the retention rate for bond and stock funds is three years. This means that in a 20-year period the investor changed funds seven times. Balanced funds are a bit better at four years, or five times. Some trading is necessary since not only is the investor return less than the best asset class, it is typically worse than the worst asset class, which would be better. Balanced funds may be better by reason of investor psychology.
+Financial advisors often agree that investors have poor timing, becoming less risk averse when markets are high and more risk averse when markets are low, a strategy that will actually result in less wealth in the long-term compared to someone who consistently invests over a long period regardless of market trends. This is consistent with recency bias and seems contrary to the acrophobia explanation. Similarly, Peter Lynch has stated that "Far more money has been lost by investors preparing for corrections or trying to anticipate corrections than has been lost in the corrections themselves."
+Proponents of the efficient-market hypothesis (EMH) claim that prices reflect all available information. EMH assumes that investors are highly intelligent and perfectly rational. However, others dispute this assumption. In particular, proponents of behavioral finance claim that investors are irrational but their biases are consistent and predictable.
+Viability of market timing[edit]
+Whether market timing is ever a viable investment strategy is controversial. Some may consider market timing to be a form of gambling based on pure chance, because they do not believe in undervalued or overvalued markets. The efficient-market hypothesis claims that financial prices always exhibit random walk behavior and thus cannot be predicted with consistency.
+Some consider market timing to be sensible in certain situations, such as an apparent bubble. However, because the economy is a complex system that contains many factors, even at times of significant market optimism or pessimism, it remains difficult, if not impossible, to predetermine the  local maximum or minimum of future prices with any precision; a so-called bubble can last for many years before prices collapse. Likewise, a crash can persist for extended periods; stocks that appear to be "cheap" at a glance, can often become much cheaper afterwards, before then either rebounding at some time in the future or heading toward bankruptcy.
+Proponents of market timing counter that market timing is just another name for trading. They argue that "attempting to predict future market price movements" is what all traders do, regardless of whether they trade individual stocks or collections of stocks, aka, mutual funds. Thus if market timing is not a viable investment strategy, the proponents say, then neither is any of the trading on the various stock exchanges.  Those who disagree with this view usually advocate a buy-and-hold strategy with periodic "re-balancing".[citation needed]
+Others contend that predicting the next event that will affect the economy and stock prices is notoriously difficult. For examples, consider the many unforeseeable, unpredictable, uncertain events between 1985 and 2013 that are shown in Figures 1 to 6 [pages 37 to 42] of Measuring Economic Policy Uncertainty.
+A 2004 study suggested that the best predictor of a fund's consistent outperformance of the market was low expenses and low turnover, not pursuit of a value or contrarian strategy.
+Several independent organizations (e.g., Timer Digest and Hulbert Financial Digest) have tracked some market timers' performance for over thirty years.  These organizations have found that purported market timers in many cases do no better than chance, or even worse.
+See also[edit]
+Stock market prediction – Act of trying to determine the future value of a financial instrument traded on an exchange
+Sector rotation
+Style investing
+Stock market cycles
+Market trend – Perceived financial market movement tendency over time
+Asset allocation – Investment strategy
+Great Recession in the United States – Major economic downturn in the United States
+Dynamic factor In econometrics, a dynamic factor (also known as a diffusion index) were originally designed to help identify business cycle turning points.
+References[edit]
+^ Metcalfe, Guy (18 July 2018). "The mathematics of market timing". PLOS ONE. 13 (7): e0200561. arXiv:1712.05031. Bibcode:2018PLoSO..1300561M. doi:10.1371/journal.pone.0200561. PMC 6051602. PMID 30021021.
+^  Yale ICF Fooling Some of the People All of the Time: The Inefficient Performance and Persistence of Commodity Trading Advisors | Working Paper No. 08-21 October 2008 | Geetesh Bhardwaj AIG Financial Products; Rutgers University - Department of Economics Gary B. Gorton Yale School of Management; National Bureau of Economic Research (NBER) K. Geert Rouwenhorst Yale School of Management, International Center for Finance
+^ "Chasing Returns Has a High Cost for Investors | St. Louis Fed On the Economy". Archived from the original on 2014-12-27. Retrieved 2015-02-03.
+^ Merton, Robert C. (1981). "On Market Timing and Investment Performance. I. An Equilibrium Theory of Value for Market Forecasts". The Journal of Business. 54 (3): 363–406. doi:10.1086/296137. JSTOR 2352345.
+^ Henriksson, Roy D.; Merton, Robert C. (1981). "On Market Timing and Investment Performance. II. Statistical Procedures for Evaluating Forecasting Skills". The Journal of Business. 54 (4): 513–533. doi:10.1086/296144. JSTOR 2352722.
+^ staff, CNBC.com (13 October 2014). "The technical indicator that made the market tank". CNBC.
+^ Hulbert, Mark. "Good enough".
+^ Zakamulin, Valeriy (August 2014). "The real-life performance of market timing with moving average and time-series momentum rules". Journal of Asset Management. 15 (4): 261–278. doi:10.1057/jam.2014.25. S2CID 195333197.
+^ Zakamulin, Valeriy (11 December 2015). "A Comprehensive Look at the Empirical Performance of Moving Average Trading Strategies". SSRN 2677212.
+^ Pruitt, George, & Hill, John R. Building Winning Trading Systems with TradeStation(TM), Hoboken, N.J: John Wiley & Sons, Inc. ISBN 0-471-21569-4, p. 106-108.
+^ "Estimated Long-Term Mutual Fund Flows - Data via Quandl". www.quandl.com. Retrieved 2015-10-01.
+^ Kinnel, Russel (15 February 2010). "Bad Timing Eats Away at Investor Returns". Morningstar.com. Archived from the original on 26 September 2017.
+^ Worldwide Mutual Fund Assets and Flows, Fourth Quarter 2008[permanent dead link]
+^ You Should Have Timed the Market Archived 2010-10-11 at the Wayback Machine on finance.yahoo.com
+^ Landy, Michael S. Rosenwald and Heather (26 December 2008). "Investors Flee Stock Funds" – via www.washingtonpost.com.
+^ "CHART: Investors Buy And Sell Stocks At Exactly The Wrong Times". Business Insider.
+^ "If You Think Worst Is Over, Take Benjamin Graham's Advice". Archived from the original on 2009-05-30. Retrieved 2017-01-17.
+^ "Since When Did It Become Buy High, Sell Low?: Chart of the Week: Market Insight: Financial Professionals: BlackRock". Archived from the original on 2014-01-14. Retrieved 2014-01-14.
+^ a b c Frazzini, Andrea; Lamont, Owen A. (May 2008). "Dumb money: Mutual fund flows and the cross-section of stock returns" (PDF). Journal of Financial Economics. 88 (2): 299–322. doi:10.1016/j.jfineco.2007.07.001. S2CID 16090053.
+^ Anderson, Tom. "Fund Investors Lag As S&P 500 Nears All-Time High". Forbes.
+^ "Fact Sheet: Morningstar Investor Return" (PDF).
+^ "Black Swans, Portfolio Theory and Market Timing". 11 February 2008.
+^ "Mutual funds far outperform mutual fund investors". MarketWatch.
+^ "Market Timing Usually Leads to Lower Returns - BeyondProxy". Beyond Proxy. Archived from the original on 2018-02-09. Retrieved 2014-06-25.
+^ "Commodities - Issue 14 - Investment Newsletter - MASECO Private Wealth". www.masecoprivatewealth.com. Archived from the original on 2016-03-04. Retrieved 2014-06-26.
+^ "CHART: Proof That You Stink At Investing". Business Insider.
+^ Richards, Carl (27 January 2014). "Forget Market Timing, and Stick to a Balanced Fund". The New York Times.
+^ Lieber, Ron (8 October 2008). "Switching to Cash May Feel Safe, but Risks Remain". The New York Times.
+^ "Emotions And Market Timing, Emotions and Timing". www.fibtimer.com.
+^ As quoted in "The Wisdom of Great Investors: Insights from Some of History’s Greatest Investment Minds, by Davis Advisers, p. 7
+^ Jim Cramer's Getting Back to Even, pp. 63-64
+^ Baker, Scott R.; Bloom, Nicholas; Davis, Steven J. (1 November 2016). "Measuring Economic Policy Uncertainty*". The Quarterly Journal of Economics. 131 (4): 1593–1636. doi:10.1093/qje/qjw024.
+^ Malkiel, Burton G. (31 January 2004). "Can Predictable Patterns in Market Returns be Exploited Using Real Money?". The Journal of Portfolio Management. 30 (5): 131–141. doi:10.3905/jpm.2004.442638. S2CID 154981913.
+External links[edit]
+Market-Timing Strategies that Worked Archived 2019-05-07 at the Wayback Machine
+Quandl Data on Estimated Long-Term Mutual Fund Flows
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+vteTechnical analysisConcepts
+Breakout
+Dead cat bounce
+Dow theory
+Elliott wave principle
+Market trend
+Charts
+Candlestick
+Renko
+Kagi
+Line
+Open-high-low-close
+Point and figure
+Line break
+PatternsChart
+Broadening top
+Cup and handle
+Double top and double bottom
+Flag and pennant
+Gap
+Head and shoulders
+Island reversal
+Price channels
+Triangle
+Triple top and triple bottom
+Wedge pattern
+CandlestickSimple
+Doji
+Complex
+Hikkake pattern
+Morning star
+Three black crows
+Three white soldiers
+Point and figure
+Bull trap
+Bear trap
+IndicatorsSupport &resistance
+Fibonacci retracement
+Pivot point (PP)
+Trend
+Average directional index (A.D.X.)
+Commodity channel index (CCI)
+Detrended price oscillator (DPO)
+Know sure thing oscillator (KST)
+Ichimoku Kinkō Hyō
+Moving average convergence/divergence (MACD)
+Mass index
+Moving average (MA)
+Parabolic SAR (SAR)
+Smart money index (SMI)
+Trend line
+Trix
+Vortex indicator (VI)
+Momentum
+Money flow index (MFI)
+Relative strength index (RSI)
+Stochastic oscillator
+True strength index (TSI)
+Ultimate oscillator
+Williams %R (%R)
+Volume
+Accumulation/distribution line
+Ease of movement (EMV)
+Force index (FI)
+Negative volume index (NVI)
+On-balance volume (OBV)
+Put/call ratio (PCR)
+Volume–price trend (VPT)
+Volatility
+Average true range (ATR)
+Bollinger Bands (BB)
+Donchian channel
+Keltner channel
+CBOE Market Volatility Index (VIX)
+Standard deviation (σ)
+Breadth
+Advance–decline line (ADL)
+Arms index (TRIN)
+McClellan oscillator
+Other
+Coppock curve
+Ulcer index
+Analysts
+John Bollinger
+Ned Davis
+Charles Dow
+Ralph Nelson Elliott
+John Murphy
+Mark Hulbert
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Market_timing&oldid=1211675599"
+Category: InvestmentHidden categories: All articles with dead external linksArticles with dead external links from June 2017Articles with permanently dead external linksWebarchive template wayback linksAll articles with unsourced statementsArticles with unsourced statements from September 2020
+This page was last edited on 3 March 2024, at 20:40 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

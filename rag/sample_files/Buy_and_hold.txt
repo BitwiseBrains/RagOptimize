@@ -1,0 +1,211 @@
+Buy and hold - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Efficient-market hypothesis
+2Lower costs
+3Return-Chasing Behavior
+4References
+Toggle the table of contents
+Buy and hold
+12 languages
+العربيةCatalàDeutschEspañolفارسیFrançais한국어日本語PortuguêsРусскийSuomi中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Buy /position tradingBuy and hold, also called position trading, is an investment strategy whereby an investor buys financial assets or non-financial assets such as real estate, to hold them long term, with the goal of realizing price appreciation, despite volatility.
+This approach implies confidence that the value of the investments will be higher in the future. Investors must not be affected by recency bias, emotions, and must understand their propensity to risk aversion. Investors must buy financial instruments that they expect to appreciate in the long term. Buy and hold investors do not sell after a decline in value. They do not engage in market timing (i.e. selling a security with the goal of buying it again at a lower price) and do not believe in calendar effects such as Sell in May.
+Buy and hold is an example of passive management. It has been recommended by Warren Buffett, Jack Bogle, Burton Malkiel, John Templeton, Peter Lynch, and Benjamin Graham since, in the long run, there is a high correlation between the stock market and economic growth.
+Efficient-market hypothesis[edit]
+According to the efficient-market hypothesis (EMH), if every security is fairly valued at all times, then there is really no point to trade. Some take the buy and hold strategy to an extreme, advocating that you should never sell a security unless you need the money. However, Warren Buffett is an example of a buy and hold advocate who has rejected the EMH in his writings, and has built his fortune by investing in companies when they were undervalued.
+Lower costs[edit]
+Others have advocated buy-and-hold on purely cost-based grounds. Costs such as commissions are incurred on all transactions, and the buy and hold strategy involves the fewest transactions for a constant amount invested, all other things being equal. Taxation law also has some effect; long-term capital gain taxes may be lower than those incurred from short term trading, and tax may be due only when and if the asset is sold.
+See Stock market cycles and Market timing. Market timing can cause poor performance.
+Return-Chasing Behavior[edit]
+At the Federal Reserve Bank of St. Louis, YiLi Chien, Senior Economist wrote about return-chasing behavior. The average equity mutual fund investor tends to buy them with high past returns and sell otherwise. Buying mutual funds with high returns is called a “return-chasing behavior.” Equity mutual fund flows have a positive correlation with past performance, with a return-flow correlation coefficient of 0.49.  Stock market returns are almost unpredictable in the short term. Stock market returns tend to go back to the long-term average. The tendency to buy mutual funds with high returns and sell those with low returns can reduce profit.
+References[edit]
+^ BEERS, BRIAN (May 13, 2020). "Buy And Hold Definition". Investopedia.
+^ Lake, Rebecca (June 19, 2019). "8 Mistakes That Can Wreck Your Buy-and-Hold Strategy". U.S. News & World Report.
+^ Malkiel, Burton G. (Jan 5, 2015). A Random Walk Down Wall Street. W. W. Norton. ISBN 9780393248951.ISBN 0-393-03888-2
+^ Elkins, Kathleen (September 18, 2018). "Warren Buffett and Jack Bogle agree on the formula for long-term success: 'Buy and hold'". CNBC.
+^ a b TUN, ZAW THIHA (August 22, 2019). "Pros & Cons Of A Passive Buy And Hold Strategy". Investopedia.
+^ Meadows, Richard (May 14, 2020). "Kindly Stop Saying The Efficient Market Hypothesis is Dead". Deep Dish.
+^ copied from wikipedia article Market timing Metcalfe, Guy (18 July 2018). "The mathematics of market timing". PLOS ONE. 13 (7): e0200561. arXiv:1712.05031. Bibcode:2018PLoSO..1300561M. doi:10.1371/journal.pone.0200561. PMC 6051602. PMID 30021021.
+^ copied from the wikipedia article Market timing "Chasing Returns Has a High Cost for Investors | St. Louis Fed On the Economy". Archived from the original on 2014-12-27. Retrieved 2020-10-15.
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Buy_and_hold&oldid=1163854802"
+Category: InvestmentHidden categories: Articles with short descriptionShort description is different from Wikidata
+This page was last edited on 6 July 2023, at 19:28 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

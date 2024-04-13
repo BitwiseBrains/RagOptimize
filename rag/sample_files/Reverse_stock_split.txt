@@ -1,0 +1,246 @@
+Reverse stock split - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1References
+2External links
+Toggle the table of contents
+Reverse stock split
+11 languages
+DanskDeutschFrançaisGaeilge한국어עבריתNederlands日本語Norsk bokmålРусскийSuomi
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+The examples and perspective in this article deal primarily with the United States and do not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (July 2012) (Learn how and when to remove this template message)
+Part of a series onFinancial markets
+Public market
+Exchange · Securities
+Bond market
+Bond valuation
+Corporate bond
+Fixed income
+Government bond
+High-yield debt
+Municipal bond
+Securitization
+Stock market
+Common stock
+Preferred stock
+Registered share
+Stock
+Stock certificate
+Stock exchange
+Other markets
+Derivatives (Credit derivativeFutures exchangeHybrid security)
+Foreign exchange (CurrencyExchange rate)
+Commodity
+Money
+Real estate
+Reinsurance
+Over-the-counter (off-exchange)
+ForwardsOptions
+Spot marketSwaps
+Trading
+Participants
+Regulation
+Clearing
+Related areas
+Banks and banking
+Finance
+corporate
+personal
+public
+vte
+In finance, a reverse stock split or reverse split is a process by which shares of corporate stock are effectively merged to form a smaller number of proportionally more valuable shares.
+The "reverse stock split" appellation is a reference to the more common stock split in which shares are effectively divided to form a larger number of proportionally less valuable shares. New shares are typically issued in a simple ratio, e.g. 1 new share for 2 old shares, 3 for 4, etc.  A reverse split is the opposite of a stock split.
+Typically, the exchange temporarily adds a "D" to the end of a ticker symbol during a reverse stock split. Sometimes a company may concurrently change its name.  This is known as a name change and consolidation (i.e. using a different ticker symbol for the new shares).
+There is a stigma attached to doing a reverse stock split, as it underscores the fact that shares have declined in value, so it is not common and may take a shareholder or board meeting for consent. Many institutional investors and mutual funds, for example, have rules against purchasing a stock whose price is below some minimum, for example US$5, the boundary price below which the SEC considers a stock to be a penny stock. A common reason for a reverse stock split is to satisfy a stock exchange's minimum share price.
+A reverse stock split may be used to reduce the number of shareholders. If a company completes a reverse split in which 1 new share is issued for every 100 old shares, any investor holding fewer than 100 shares would simply receive a cash payment. If the number of shareholders drops, the company may be placed into a different regulatory category and may be governed by different law—for example, in the U.S., whether a company is regulated by the SEC depends in part on the number of shareholders.
+From time to time, companies will issue a reverse split concurrently with a forward split, making a reverse/forward split.  Note that in reverse/forward splits, the shareholder's old shares are erased, as they receive a number of new shares in proportion to their original holdings. By contrast, in a simple stock split, the original shares remain on the exchange as shareholders receive additional shares based on their existing holdings. In both stock splits and reverse splits, the share price is adjusted in proportion to the increase in shares to maintain equal value.
+As an example of how reverse splits work, ProShares Ultrashort Silver (ZSL) underwent a 1-10 reverse split on April 15, 2010, which grouped every 10 shares into one share; accordingly, this multiplied the close price by 10, so the stock finished at $36.45 instead of $3.645. On February 25, 2011, ZSL had a 1-4 reverse split (every 4 shares became one share, which multiplied the close price by 4, to $31.83). Because of these two actions, one share of ZSL as of February 26, 2011 represents 40 shares of ZSL before April 15, 2010. These splits were necessary to maintain the share price of the fund, whose value fell 90.2% from April 15, 2010 to April 21, 2011, and over 98% since December 3, 2008. Had the reverse splits not taken place, ZSL's closing price on April 21, 2011 would have been $0.3685, rather than $14.74, or .3685*40.
+References[edit]
+^ a b "SEC.gov - Reverse Stock Splits". sec.gov. 3 November 2000.
+^ Kawamoto D (2000), Reverse splits aren't always reversals of fortune CNET News, 16 November 2000
+^ "Google Scholar". google.com.
+^ root. "Reverse/Forward Stock Split". Investopedia.
+^ Quotes, dates and split dates for ZSL come from Fidelity as accessed via their Active Trader Pro console
+^ "ProShares UltraShort Silver, ZSL Historical Quote - (NAR) ZSL, ProShares UltraShort Silver Stock Price - BigCharts.com". marketwatch.com.
+External links[edit]
+Stock split and reverse split examples for shareholders (from the Internet Archive)
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Reverse_stock_split&oldid=1171254504"
+Category: Stock marketHidden categories: Articles with limited geographic scope from July 2012United States-centric
+This page was last edited on 20 August 2023, at 00:13 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

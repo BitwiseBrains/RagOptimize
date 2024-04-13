@@ -1,0 +1,330 @@
+Position (finance) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Trading and financial assets
+Toggle Trading and financial assets subsection
+1.1Long position
+1.2Short position
+1.3Bull position
+1.4Bear position
+1.5Net position
+2See also
+3References
+Toggle the table of contents
+Position (finance)
+7 languages
+DeutschΕλληνικάEspañolFrançaisÍslenska粵語中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Amount of a certain security, commodity or currency held or owned by a person/entity
+For other uses, see Position (disambiguation).
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Position" finance – news · newspapers · books · scholar · JSTOR (March 2018) (Learn how and when to remove this template message)
+Part of a series onFinance
+Markets
+Assets
+Bond
+Commodity
+Derivatives
+Foreign exchange
+Money
+Over-the-counter
+Private equity
+Real estate
+Spot
+Stock
+Participants
+Investor
+institutional
+Retail
+Speculator
+Locations
+Financial centres
+Offshore financial centres
+Conduit and sink OFCs
+Instruments
+Bond
+Cash
+Collateralised debt obligation
+Credit default swap
+Time deposit (certificate of deposit)
+Credit line
+Deposit
+Derivative
+Futures contract
+Indemnity
+Insurance
+Letter of credit
+Loan
+Mortgage
+Option (callexoticput)
+Performance bonds
+Repurchase agreement
+Stock
+Security
+Syndicated loan
+Synthetic CDO
+Corporate
+General
+Accounting
+Audit
+Capital budgeting
+Credit rating agency
+Risk management
+Financial statements
+Transactions
+Leveraged buyout
+Mergers and acquisitions
+Structured finance
+Venture capital
+Taxation
+Base erosion and profit shifting (BEPS)
+Corporate tax haven
+Tax inversion
+Tax haven
+Transfer pricing
+Personal
+Credit / Debt
+Employment contract
+Financial planning
+RetirementStudent loan
+Public
+Government spending
+Final consumption expenditure
+OperationsRedistribution
+Transfer payment
+Government revenue
+TaxationDeficit spending
+Budget (balance)Debt
+Non-tax revenue
+Warrant of payment
+Banking
+Central bank
+Deposit account
+Fractional-reserve
+Full-reserve
+Loan
+Money supply
+Lists of banks
+Bank regulation
+Banking license
+Basel Accords
+Bank for International Settlements
+Financial Stability Board
+Deposit insurance
+Separation of investment and retail banking
+Regulation · Financial law
+International Financial Reporting Standards
+ISO 31000
+Professional certification
+Fund governance
+Economic history
+Private equity and venture capital
+Recession
+Stock market bubble
+Stock market crash
+Accounting scandals
+Business and Economics portal
+Money portalvte
+In finance, a position is the amount of a particular security, commodity or currency held or owned by a person or entity.
+In financial trading, a position in a futures contract does not reflect ownership but rather a binding commitment to buy or sell a given number of financial instruments, such as securities, currencies or commodities, for a given price.
+Trading and financial assets[edit]
+In derivatives trading or for financial instruments, the concept of a position is used extensively.  There are two basic types of position: a long (holding a positive amount of the instrument) and a short (holding a negative amount of the instrument). Generally speaking, long positions stand to gain from a rise of the price of the instrument and short positions from a fall (but with options the situation is more complicated).
+Options will be used in the following explanations. The same principle applies for futures and other securities.  For simplicity, only one contract is being traded in these examples.
+Long position[edit]
+When a trader buys an option contract that he is not short, he is said to be opening a long position.
+When a trader sells an option contract that he is already long, he is said to be closing a long position.
+Short position[edit]
+When a trader sells an option contract that he is not long, he is said to be opening a short position.
+When a trader buys an option contract that he is already short, he is said to be closing a short position.
+Bull position[edit]
+A trader holding a bull position will benefit when the price of the underlying goes up. This is equivalent to holding a long position on most financial instruments, but also a short position on put options, inverse ETFs or similar.
+Bear position[edit]
+A trader holding a bear position will benefit when the price of the underlying goes down. This is equivalent to holding a short position on most financial instruments, but also a long position on put options, inverse ETFs or similar.
+Net position[edit]
+Net position is the difference between total open long (receivable) and open short (payable) positions in a given asset (security, foreign exchange currency, commodity, etc.) held by an individual. This also refers to the amount of assets held by a person, firm, or financial institution, as well as the ownership status of a person's or institution's investments.
+See also[edit]
+Arbitrage
+References[edit]
+^ "Position". Investopedia. Retrieved 2018-03-12.
+^ Harvey, Campbell R. (2011). "Position". Financial Glossary. Nasdaq.
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Authority control databases: National
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Position_(finance)&oldid=1166503524"
+Categories: Derivatives (finance)Financial marketsHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from March 2018All articles needing additional referencesArticles with GND identifiers
+This page was last edited on 22 July 2023, at 00:38 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width
