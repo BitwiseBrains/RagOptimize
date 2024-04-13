@@ -1,0 +1,539 @@
+Market trend - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Market terminology
+2Secular trends
+3Primary trends
+Toggle Primary trends subsection
+3.1Bull market
+3.1.1Examples
+3.2Bear market
+3.2.1Examples
+3.3Market top
+3.3.1Examples
+3.4Market bottom
+3.4.1Examples
+4Secondary trends
+Toggle Secondary trends subsection
+4.1Bear market rally
+5Causes of market trends
+6Market sentiment
+7See also
+8References
+9External links
+Toggle the table of contents
+Market trend
+24 languages
+العربيةAzərbaycancaCatalàDanskDeutschEspañolفارسیFrançaisGaeilgeՀայերենItalianoLietuviųNederlandsNorsk bokmålPolskiPortuguêsРусскийСрпски / srpskiSuomiSvenskaУкраїнськаTiếng Việt粵語中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia Commons
+From Wikipedia, the free encyclopedia
+Perceived financial market movement tendency over time
+This article is about market trend in finance. For the trend of a market that is used in a company's planning activities, especially regarding inventory decisions, purchasing, facility expansion, and promotional activities, see Market analysis.
+A market trend is a perceived tendency of the financial markets to move in a particular direction over time. Analysts classify these trends as secular for long time-frames, primary for medium time-frames, and secondary for short time-frames. Traders attempt to identify market trends using technical analysis, a framework which characterizes market trends as predictable price tendencies within the market when price reaches support and resistance levels, varying over time.
+A future market trend can only be determined in hindsight, since at any time prices in the future are not known. Past trends are identified by drawing lines, known as trendlines, that connect price action making higher highs and higher lows for an uptrend, or lower lows and lower highs for a downtrend.
+Market terminology[edit]
+Statues of the two symbolic beasts of finance, the bear and the bull, in front of the Frankfurt Stock Exchange
+Further information: Bull (stock market speculator) and Bull–bear line
+The terms "bull market" and "bear market" describe upward and downward market trends, respectively, and can be used to describe either the market as a whole or specific sectors and securities. The terms come from London's Exchange Alley in the early 18th century, where traders who engaged in naked short selling were called "bear-skin jobbers" because they sold a bear's skin (the shares) before catching the bear. This was simplified to "bears," while traders who bought shares on credit were called "bulls." The latter term might have originated by analogy to bear-baiting and bull-baiting, two animal fighting sports of the time. Thomas Mortimer recorded both terms in his 1761 book Every Man His Own Broker. He remarked that bulls who bought in excess of present demand might be seen wandering among brokers' offices moaning for a buyer, while bears rushed about devouring any shares they could find to close their short positions. An unrelated folk etymology supposes that the terms refer to a bear clawing downward to attack and a bull bucking upward with its horns.
+Secular trends[edit]
+A secular market trend is a lasting long-term trend that lasts 5 to 25 years and consists of a series of primary trends. A secular bear market consists of smaller bull markets and larger bear markets; a secular bull market consists of larger bull markets and smaller bear markets.
+In a secular bull market, the prevailing trend is "bullish" or upward-moving. The United States stock market was described as being in a secular bull market from about 1983 to 2000 (or 2007), with brief upsets including Black Monday and the Stock market downturn of 2002, triggered by the crash of the dot-com bubble. Another example is the 2000s commodities boom.
+In a secular bear market, the prevailing trend is "bearish" or downward-moving. An example of a secular bear market occurred in gold from January 1980 to June 1999, culminating with the Brown Bottom. During this period, the market price of gold fell from a high of $850/oz ($30/g) to a low of $253/oz ($9/g). The stock market was also described as being in a secular bear market from 1929 to 1949.
+Primary trends[edit]
+A primary trend has broad support throughout the entire market, across most sectors, and lasts for a year or more.
+Bull market[edit]
+A 1901 cartoon depicting financier J. P. Morgan as a bull with eager investors
+See also: Bull (stock market speculator)
+A bull market is a period of generally rising prices. The start of a bull market is marked by widespread pessimism. This point is when the "crowd" is the most "bearish". The feeling of despondency changes to hope, "optimism", and eventually euphoria as the bull runs its course. This often leads the economic cycle, for example, in a full recession, or earlier.
+Generally, bull markets begin when stocks rise 20% from their low and end when stocks  experience a 20% drawdown. However, some analysts suggest a bull market cannot happen within a bear market.
+An analysis of Morningstar, Inc. stock market data from 1926 to 2014 revealed that, on average, a typical bull market lasted 8.5 years with a cumulative total return averaging 458%. Additionally, annualized gains for bull markets ranged from 14.9% to 34.1%.
+Examples[edit]
+India's Bombay Stock Exchange Index, BSE SENSEX, experienced a major bull market trend from April 2003 to January 2008. It increased from 2,900 points to 21,000 points, representing a more than 600% return in 5 years.
+Notable bull markets characterized the 1925–1929, 1953–1957, and 1993–1997 periods when the U.S. and many other stock markets experienced significant growth. While the first period ended abruptly with the start of the Great Depression, the end of the later time periods were mostly periods of soft landing, which became large bear markets. (see: Recession of 1960–61 and the dot-com bubble in 2000–2001)
+Bear market[edit]
+Sculpture of stock market bear outside International Financial Services Centre, Dublin
+A bear market is a general decline in the stock market over a period of time. It involves a transition from high investor optimism to widespread investor fear and pessimism. One generally accepted measure of a bear market is a price decline of 20% or more over at least a two-month period.
+A decline of 10% to 20% is classified as a correction.
+Bear markets conclude when stocks recover, reaching new highs. The bear market is then assessed retrospectively from the recent highs to the lowest closing price, and its recovery period spans from the lowest closing price to the attainment of new highs. Another commonly accepted indicator of the end of a bear market is indices gaining 20% or more from their low.
+From 1926 to 2014, the average duration of a bear market was 13 months, accompanied by an average cumulative loss of 30%. Annualized declines for bear markets ranged from -19.7% to -47%.
+Examples[edit]
+Impact of COVID-19 on Indian stock markets, NIFTY 50 Index (1 Jan 2020 to 19 May 2020)
+Some examples of a bear market include:
+The Wall Street Crash of 1929, which erased 89% (from 386 to 40) of the Dow Jones Industrial Average's market capitalization by July 1932, marking the start of the Great Depression. After regaining nearly 50% of its losses, a longer bear market from 1937 to 1942 occurred in which the market was again cut in half.
+A long-term bear market occurred from about 1973 to 1982, encompassing the 1970s energy crisis and the high unemployment of the early 1980s.
+A bear market occurred in India following the 1992 Indian Stock Market scam committed by Harshad Mehta.
+The Stock market downturn of 2002.
+As a result of the financial crisis of 2007–2008, a bear market occurred between October 2007 and March 2009.
+The 2015 Chinese stock market crash.
+In early 2020, as a result of the COVID-19 pandemic, multiple stock market crashes have led to bear markets across the world.
+In 2022, concerns over an inflation surge and potential rises of the federal funds rate caused a bear market.
+Market top[edit]
+A market top (or market high) is usually not a dramatic event. The market has simply reached the highest point that it will, for some time.[weasel words] This identification is retrospective, as market participants are generally unaware of it when it occurs. Thus prices subsequently fall, either slowly or more rapidly.
+According to William O'Neil, since the 1950s, a market top is characterized by three to five distribution days in a major stock market index occurring within a relatively short period of time. Distribution is identified as a decline in price with higher volume than the preceding session.
+Examples[edit]
+The peak of the dot-com bubble, as measured by the NASDAQ-100, occurred on March 24, 2000, when the index closed at 4,704.73. The NASDAQ peaked at 5,132.50 and the S&P 500 Index at 1525.20.
+The peak of the U.S. stock market before the financial crisis of 2007–2008 occurred on October 9, 2007. The S&P 500 Index closed at 1,565 and the NASDAQ at 2,861.50.
+Market bottom[edit]
+A market bottom marks a trend reversal, signifying the end of a market downturn and the commencement of an upward-moving trend (bull market).
+Identifying a market bottom, often referred to as 'bottom picking,' is a challenging task, as it's difficult to recognize before it passes. The upturn following a decline may be short-lived, and prices might resume their descent, resulting in a loss for the investor who purchased stocks during a misperceived or 'false' market bottom.
+Baron Rothschild is often quoted as advising that the best time to buy is when there is 'blood in the streets'—that is, when the markets have fallen drastically and investor sentiment is extremely negative.
+Examples[edit]
+The Battle of the Bulls and Bears (Harper's Weekly, September 10, 1864)
+Some more examples of market bottoms, in terms of the closing values of the Dow Jones Industrial Average (DJIA) include:
+The Dow Jones Industrial Average hit a bottom at 1,738.74 on October 19, 1987, following a decline from 2,722.41 on August 25, 1987. This day is commonly referred to as Black Monday (chart).
+A bottom of 7,286.27 was reached on the DJIA on October 9, 2002, following a decline from 11,722.98 on January 14, 2000. This decline included an intermediate bottom of 8,235.81 on September 21, 2001 (a 14% change from September 10), leading to an intermediate top of 10,635.25 on March 19, 2002 (chart). Meanwhile, the "tech-heavy" Nasdaq experienced a more precipitous fall, declining 79% from its peak of 5,132 on March 10, 2000, to its bottom of 1,108 on October 10, 2002.
+A bottom of 6,440.08 (DJIA) on 9 March 2009 was reached after a decline associated with the subprime mortgage crisis starting at 14164.41 on 9 October 2007 (chart).
+Secondary trends[edit]
+Secondary trends are short-term changes in price direction within a primary trend, typically lasting for a few weeks or a few months.
+Bear market rally[edit]
+Similarly, a bear market rally, sometimes referred to as a 'sucker's rally' or 'dead cat bounce', is characterized by a price increase of 5% or more before prices fall again. Bear market rallies were observed in the Dow Jones Industrial Average index after the Wall Street Crash of 1929, leading down to the market bottom in 1932, and throughout the late 1960s and early 1970s. The Japanese Nikkei 225 has had several bear-market rallies between the 1980s and 2011, while undergoing an overall long-term downward trend.
+Causes of market trends[edit]
+The price of assets, such as stocks, is determined by supply and demand. By definition, the market balances buyers and sellers, making it impossible to have 'more buyers than sellers' or vice versa, despite the common use of that expression. During a surge in demand, buyers are willing to pay higher prices, while sellers seek higher prices in return. Conversely, in a surge in supply, the dynamics are reversed.
+Supply and demand dynamics vary as investors attempt to reallocate their investments between asset types. For instance, investors may seek to move funds from government bonds to 'tech' stocks, but the success of this shift depends on finding buyers for the government bonds they are selling. Conversely, they might aim to move funds from 'tech' stocks to government bonds at another time. In each case, these actions influence the prices of both asset types.
+Ideally, investors aim to use market timing to buy low and sell high, but in practice, they may end up buying high and selling low. Contrarian investors and traders employ a strategy of 'fading' investors' actions—buying when others are selling and selling when others are buying. A period when most investors are selling stocks is known as distribution, while a period when most investors are buying stocks is known as accumulation.
+"According to standard theory, a decrease in price typically leads to less supply and more demand, while an increase in price has the opposite effect. While this principle holds true for many assets, it often operates in reverse for stocks due to the common mistake made by investors—buying high in a state of euphoria and selling low in a state of fear or panic, driven by the herding instinct. In cases where an increase in price leads to an increase in demand, or a decrease in price leads to an increase in supply, the expected negative feedback loop is disrupted, resulting in price instability. This phenomenon is evident in bubbles or market crashes.
+Market sentiment[edit]
+Market sentiment is a contrarian stock market indicator.
+When an extremely high proportion of investors express a bearish (negative) sentiment, some analysts consider it to be a strong signal that a market bottom may be near. David Hirshleifer observes a trend phenomenon that follows a path starting with under-reaction and culminating in overreaction by investors and traders.
+Indicators that measure investor sentiment may include:
+The Investor Intelligence Sentiment Index evaluates market sentiment through the Bull-Bear spread (% of Bulls − % of Bears). A close-to-historic-low spread may signal a bottom, indicating a potential market turnaround. Conversely, an extreme high in bullish sentiment and an extreme low in bearish sentiment may suggest a market top or an imminent occurrence. It's worth noting that this contrarian measure is more reliable for coincidental timing at market lows than at market tops.
+The American Association of Individual Investors (AAII) sentiment indicator is often interpreted to suggest that the majority of the decline has already occurred when it gives a reading of minus 15% or below.
+Other sentiment indicators include the Nova-Ursa ratio, the Short Interest/Total Market Float, and the put/call ratio.
+See also[edit]
+Animal spirits
+Black Monday
+Bull-bear line
+Business cycle
+Don't fight the tape
+Economic Cycle Research Institute
+Economic expansion
+Herd mentality
+Market sentiment
+Michael Ewing Purves, developed the "Wolf Market" framework
+Mr. Market
+Real estate trends
+Recession
+Trend following
+References[edit]
+^ a b Fontanills, George; Gentile, Tommy (2001). The Stock Market Course. Wiley. p. 91. ISBN 9780471036708.
+^ a b Edwards, Robert D.; McGee, John; Bessetti, W. H. C. (July 24, 2018). Technical Analysis of Stock Trends. CRC Press. ISBN 978-0-8493-3772-7.
+^ Preis, Tobias; Stanley, H. Eugene (2011). "Bubble trouble: Can a Law Describe Bubbles and Crashes in Financial Markets?". Physics World. 24: 29–32. doi:10.1088/2058-7058/24/05/34.
+^ Schneider, Daniel B. (November 30, 1997). "F.Y.I." The New York Times. Retrieved 2022-01-30.
+^ "Bull Market". Investopedia.
+^ "Chart of gold 1968–99". www.kitco.com. Retrieved Mar 17, 2023.
+^ Zweig, Martin (June 27, 2009). Winning on Wall Street. Grand Central Publishing. ISBN 9780446561686.
+^ The 6 Stages Of Bull Markets – And Where We Are Right Now | Markets | Minyanville's Wall Street Archived 2019-05-07 at the Wayback Machine Minyanville
+^ Chen, James. "Bull Market Definition". Investopedia. Retrieved 2020-03-26.
+^ DeCambre, Mark. "Does the Dow's 21% surge in 3 days put it back in a bull market? 'The market doesn't work that way,' says one researcher". MarketWatch. Retrieved 2020-03-27.
+^ "Historical Data". BSE India. Retrieved 22 June 2023.
+^ O'Sullivan, Arthur; Sheffrin, Steven M. (2003). Economics: Principles in Action. Prentice Hall. p. 290. ISBN 0-13-063085-3.
+^ "Bear Market". Investopedia.
+^ DeCambre, Mark (April 6, 2018). "Stop saying the Dow is moving in and out of correction! That is not how stock-market moves work". MarketWatch.
+^ Ro, Sam. "This Is The Best Illustration Of History's Bull And Bear Markets We've Seen Yet". Business Insider. Retrieved 2020-03-18.
+^ Driebusch, Georgi Kantchev and Corrie (2019-02-15). "Nasdaq Exits Bear Market as Stocks Rally". Wall Street Journal. ISSN 0099-9660. Retrieved 2020-03-18.
+^ DeCambre, Mark. "The Nasdaq escapes longest bear market — by one measure — in 28 years". MarketWatch. Retrieved 2020-03-18.
+^ Franck, Thomas; Rooney, Kate (October 26, 2018). "The stock market loses 13% in a correction on average, if it doesn't turn into a bear market". CNBC.
+^ "The S&P 500 is in a Bear Market; Here's What That Means". VOA. 13 June 2022. Retrieved 14 June 2022.
+^ David Saito-Chung (8 November 2016). "Know This Sell Rule: When Distribution Days Pile Up In The Stock Market". Investors.com.
+^ "Contrarian Investing: Buy When There's Blood in the Streets". Investopedia.
+^ "$INDU – Dow Jones Industrial Average". stockcharts.com. Retrieved Mar 17, 2023.
+^ "$INDU – Dow Jones Industrial Average". stockcharts.com. Retrieved Mar 17, 2023.
+^ "$INDU – SharpCharts Workbench". StockCharts.com.
+^ "Bear Market Rally Definition". Investopedia.
+^ Masayuki Tamura. "30 years since Japan's stock market peaked, climb back continues". Asia Nikkei.
+^ Kinnel, Russel (August 15, 2019). "Mind the Gap 2019". Morningstar, Inc. Retrieved May 14, 2020.
+^ Wilcox, Jarrod; Fabozzi, Frank J. (2013). Financial advice and investment decisions: a manifesto for change. The Frank J. Fabozzi series. Hoboken, NJ: Wiley. ISBN 978-1-118-41532-0.
+^ Hulbert, Mark (November 12, 2008). "Trying to Plumb a Bottom". The Wall Street Journal.
+External links[edit]
+Media related to Market trends at Wikimedia Commons
+vteTechnical analysisConcepts
+Breakout
+Dead cat bounce
+Dow theory
+Elliott wave principle
+Market trend
+Charts
+Candlestick
+Renko
+Kagi
+Line
+Open-high-low-close
+Point and figure
+Line break
+PatternsChart
+Broadening top
+Cup and handle
+Double top and double bottom
+Flag and pennant
+Gap
+Head and shoulders
+Island reversal
+Price channels
+Triangle
+Triple top and triple bottom
+Wedge pattern
+CandlestickSimple
+Doji
+Complex
+Hikkake pattern
+Morning star
+Three black crows
+Three white soldiers
+Point and figure
+Bull trap
+Bear trap
+IndicatorsSupport &resistance
+Fibonacci retracement
+Pivot point (PP)
+Trend
+Average directional index (A.D.X.)
+Commodity channel index (CCI)
+Detrended price oscillator (DPO)
+Know sure thing oscillator (KST)
+Ichimoku Kinkō Hyō
+Moving average convergence/divergence (MACD)
+Mass index
+Moving average (MA)
+Parabolic SAR (SAR)
+Smart money index (SMI)
+Trend line
+Trix
+Vortex indicator (VI)
+Momentum
+Money flow index (MFI)
+Relative strength index (RSI)
+Stochastic oscillator
+True strength index (TSI)
+Ultimate oscillator
+Williams %R (%R)
+Volume
+Accumulation/distribution line
+Ease of movement (EMV)
+Force index (FI)
+Negative volume index (NVI)
+On-balance volume (OBV)
+Put/call ratio (PCR)
+Volume–price trend (VPT)
+Volatility
+Average true range (ATR)
+Bollinger Bands (BB)
+Donchian channel
+Keltner channel
+CBOE Market Volatility Index (VIX)
+Standard deviation (σ)
+Breadth
+Advance–decline line (ADL)
+Arms index (TRIN)
+McClellan oscillator
+Other
+Coppock curve
+Ulcer index
+Analysts
+John Bollinger
+Ned Davis
+Charles Dow
+Ralph Nelson Elliott
+John Murphy
+Mark Hulbert
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+vteFinancial bubbles
+Market trend
+List of commodity booms
+Credit cycle
+Diamond rush
+Gold rush
+Irrational exuberance
+Social contagion
+Oil boom
+Real-estate bubble
+Stock market bubble
+Commercial revolution(1000–1760)
+Tulip mania (1634–1637)
+Mississippi bubble (1684–1720)
+Brazilian Gold Rush (c. 1690–c. 1900)
+South Sea bubble (1711–1720)
+Bengal Bubble of 1769 (1757–1769)
+1st Industrial Revolution(1760–1840)
+Canal Mania (c. 1790–c. 1810)
+Carolina gold rush (1802–1825)
+1810s Alabama real estate bubble
+Georgia Gold Rush (1828–c. 1840)
+1830s Chicago real estate bubble
+Chilean silver rush (1830–1850)
+1840–1870
+Railway Mania (c. 1840–c. 1850)
+California gold rush (1848–1855)
+Queen Charlottes Gold Rush (1851)
+Victorian gold rush (1851–c. 1870)
+New South Wales gold rush (1851–1880)
+Australian gold rushes (1851–1914)
+Fraser Canyon Gold Rush (1858)
+Pike's Peak gold rush (1858–1861)
+Rock Creek Gold Rush (1859)
+Pennsylvania oil rush (1859–1891)
+Similkameen Gold Rush (1860)
+Stikine Gold Rush (1861)
+Colorado River mining boom (1861–1864)
+Otago Gold Rush (1861–1864)
+Cariboo Gold Rush (1861–1867)
+First Nova Scotia Gold Rush (1861–1874)
+Wild Horse Creek Gold Rush (1864–1865)
+Leechtown Gold Rush (1864–1865)
+West Coast Gold Rush (1864–1867)
+Big Bend Gold Rush (c. 1865)
+Vermilion Lake gold rush (1865–1867)
+Kildonan Gold Rush (1869)
+Omineca Gold Rush (1869)
+2nd Industrial Revolution(1870–1914)
+1870s Lapland gold rush
+Coromandel Gold Rushes (c. 1870–c. 1890)
+Cassiar Gold Rush (c. 1870–c. 1890)
+Black Hills gold rush (1874–1880)
+Colorado Silver Boom (1879–1893)
+Western Australian gold rushes (c. 1880–c. 1900)
+Indiana gas boom (c. 1880–1903)
+Ohio oil rush (c. 1880–c. 1930)
+Tierra del Fuego gold rush (1883–1906)
+Cayoosh Gold Rush (1884)
+Witwatersrand Gold Rush (1886)
+Encilhamento (1886–1890)
+Cripple Creek Gold Rush (c. 1890–c. 1910)
+Klondike Gold Rush (1896–1899)
+Second Nova Scotia Gold Rush (1896–1903)
+Kobuk River Stampede (1897–1899)
+Mount Baker gold rush (1897–c. 1925)
+Nome Gold Rush (1899–1909)
+Fairbanks Gold Rush (c. 1900–1918)
+Texas oil boom (1901–1918)
+Cobalt silver rush (1903–1918)
+Porcupine Gold Rush (1909–1918)
+Interwar period(1918–1939)
+1920s Florida land boom (c. 1920–1925)
+Fairbanks Gold Rush (1918–c. 1930)
+Texas oil boom (1918–1945)
+Cobalt silver rush (1918–c. 1930)
+Porcupine Gold Rush (1918–1945)
+1930s Kakamega gold rush
+Third Nova Scotia Gold Rush (1932–1942)
+Post–WWII expansion(1945–1973)
+Texas oil boom (1945–c. 1950)
+Porcupine Gold Rush (1945–c. 1960)
+Poseidon bubble (1969–1970)
+The Great Inflation(1973–1982)
+1970s commodities boom
+Mexican oil boom (1977–1981)
+Silver Thursday (1980)
+New Zealand property bubble (c. 1980–1982)
+Great Moderation/Great Regression(1982–2007)
+1980s oil glut
+New Zealand property bubble (1982–)
+Spanish property bubble (1985–2008)
+Japanese asset price bubble (1986–1990)
+Dot-com bubble (1995–2000)
+Baltic states housing bubble (2000–2006)
+Irish property bubble (c. 2000–2007)
+2000s commodities boom (2000–2008)
+2000s Danish property bubble (2001–2006)
+United States housing bubble (2002–2006)
+Romanian property bubble (2002–2007)
+Polish property bubble (2002–2008)
+Canadian property bubble (2002–)
+Chinese property bubble (2005–11)
+Lebanese housing bubble (2005–2008)
+North Dakota oil boom (2006–2008)
+Chinese stock bubble of 2007
+Uranium bubble of 2007
+Digital Revolution(2007–present)
+North Dakota oil boom (2008–2012)
+2000s commodities boom (2008–2014)
+Lebanese housing bubble (2008–)
+Corporate debt bubble (2008–)
+Australian property bubble (2010–)
+Cryptocurrency bubble (2011–)
+Everything bubble (2020–21)
+AI winter
+Carbon bubble
+Green bubble
+Social media stock bubble
+Unicorn bubble
+U.S. higher education bubble
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Market_trend&oldid=1217972304"
+Categories: Market trendsFinancial marketsFinancial economicsInvestmentBehavioral financeCapitalismHidden categories: Webarchive template wayback linksArticles with short descriptionShort description is different from WikidataAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from January 2022Commons category link from Wikidata
+This page was last edited on 9 April 2024, at 00:31 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

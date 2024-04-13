@@ -1,0 +1,229 @@
+Mosaic theory (investments) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Theory
+2SEC and guideline
+3Practical use
+4Legality of the Mosaic Theory
+5Court Cases
+6See also
+7References
+Toggle the table of contents
+Mosaic theory (investments)
+1 language
+Deutsch
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may be confusing or unclear to readers. Please help clarify the article. There might be a discussion about this on the talk page. (August 2023) (Learn how and when to remove this template message)
+This article may have misleading content. Please help clarify the content. (August 2023)
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources: "Mosaic theory" investments – news · newspapers · books · scholar · JSTOR (August 2023) (Learn how and when to remove this template message)
+(Learn how and when to remove this template message)
+Financial Analysis
+The mosaic theory in finance involves the use of security analyst personnel to gather information about a company or corporation to evaluate and determine its financial stability. In addition to public information available to all investors, securities analysts also have access to non-public information which the vast majority of investors do not possess. Trading based on such non-public information can be considered illegal if the information is also material, as defined by insider trading laws.
+Theory[edit]
+Seal of the United States Securities and Exchange Commission
+By gathering various non-material information, often from sources at or close to the issuing corporation, an analyst can draw useful conclusions about the current and future health of the company, allowing them to profit from transacting in shares of its stock and related derivative contracts.  However, extrapolating conclusions from a "mosaic" of such bits of non-public information can be vague, sometimes leading analysts to false conclusions about the corporation. Security analysts then have to sort through the data collected and make recommendations to their clients or keep the information to themselves to use later for personal profit based on determining the underlying value of a company's securities.
+SEC and guideline[edit]
+Since the commission's Fair Disclosure rule (Reg FD) was enacted, the viability of the mosaic theory has been retained within the United States under the Securities and Exchange Commission. Broadly speaking, the SEC requires public corporations to register their stock sales and protects investors in the municipal securities markets. Though it was not created by the Securities and Exchange Commission, it has placed a judicially imposed limitation on the information gathered by insider trading. If the U.S. Securities and Exchange Commission deems that there is illegal insider trading, they can freeze assets tied to the company's shares. The Securities and Exchange Commission explains that this nonpublic information, known as research to the security analysts, isn't banned from "disclosing a non-material piece of information to an analyst, even if, unbeknownst to the issuer, that piece helps the analyst complete a "mosaic" of information that, taken together, is material". The SEC constantly are evaluating trends and when unknown traders purchase equity call options that are millions of dollars. The SEC can freeze accounts on suspicion of illegal insider trading when the accuracy and validity of information may be incorrect within the marketplace.  This had led to the legality of insider trading laws to be under intense scrutiny. Though it is legal under the United States Federal insider laws to utilize the mosaic information that is obtained by a securities analyst, it must be within the guidelines of the confidentiality that the company or corporation created. For most companies within the United States and do business with the United States, these guidelines of confidentiality are required. Some of the controls that have mitigated the potential of illegal trading within the mosaic theory include the interactions between a company and consultants, notification in connection with approved consultants, remaining alert to potential issues, compliance oversight, information barriers, and being within the SEC guidelines. These guidelines have made companies more transparent with their financial stability to the general public.
+Practical use[edit]
+Under insider trading laws, analysts may not use material non-public information to help select their trades. But traders might be able to piece together non-material non-public information and material public information into a mosaic, which may increase in value when properly compiled and documented. The theory is also referred to more colloquially as the scuttlebutt method by Philip Fisher in Common Stocks and Uncommon Profits.
+Mosaic theory involves collecting information from different sources, public and private, to calculate the value of security. Applying the mosaic theory is as much art as it is science. An analyst gleans as many pieces of information as possible, determines if they tell a story that makes sense, and decides whether to recommend a trade.
+It is also a legal theory used to uphold the classification of information, holding that a collection of unclassified information might add up to a classified whole. The theory has also been applied to legal reasoning in the context of the Fourth Amendment where the continuous use of GPS surveillance was found to violate the subject's "reasonable expectation of privacy".
+Legality of the Mosaic Theory[edit]
+Though the Supreme Court recognized the legality of the Mosaic Theory in Dirks v. SEC, the concerns have arisen with the potential of illegal insider trading happening within analysis. Analysts can take advantage of vague insider trading laws and this brings of the legality of it. Securities analysts can obtain non disclosed information from company insiders that an average investor cannot. Under insider trading law, this advantage is an unlawful method. To combat this issue, confidentiality agreements as well as operating under internal policy guidelines are in place. Section 10(b) of the Securities Exchange Act of 1934 and Exchange Act Rule 10b-5 falls under the category when unknown traders purchase equity call options that are millions of dollars.
+The mosaic theory relies heavily on the U.S. economy's fluctuation and stock market. Without public corporations being transparent, the mosaic theory would be ineffective and the stock market would be vulnerable to sudden shifts as hidden information comes out. Thus, it is illegal for United States public companies to not be transparent with their corporate profitability.
+Court Cases[edit]
+In May 2011, US District Judge Richard J. Howell sentenced Raj Rajaratnam, the founder of the Galleon Group hedge fund, to eleven years in prison who was found guilty of fourteen counts of insider trading. During the high-profile trial of investor Raj Rajaratnam, defense attorneys used the mosaic theory to argue against allegations of insider trading. These arguments were ultimately unsuccessful. Though it was ten years shorter than the requested amount of time, it constitutes as the longest prison sentence given to an insider trading case. Under the Securities Exchange Acts15 USC §78j(b) and 17 CFR §240.10b-5, Rajaratnam and other Galleon traders were convicted with fraud and conspiracy. They profited tens of millions of dollars of insider trading and based their arguments off of the mosaic theory. So far, this is the only court case that has used the mosaic theory in court to validate insider trading in the court of law.
+See also[edit]
+Stock valuation
+Classified information in the United States
+Freedom of Information Act (United States)
+Enron scandal
+Mosaic theory (US law)
+References[edit]
+^ a b c Davidowitz, A. S. (2019). "Abandoning the 'Mosaic Theory' of Securities Analysis Constitutes Illegal insider Trading and What to do about it". 6 Wash. U. J. L. & Pol’y281.
+^ a b c d e f g Fisch, Jill (2013). "Regulation FD: An Alternative Approach to Addressing Information Asymmetry". Faculty Scholarship at Penn Law.
+^ Hautekiet J. "The Galleon Insider Trading Case: How To Sentence a Seemingly Victimless Crime?". [verification needed]
+^ a b c d e f g "UBS Global Asset Management Insider Trading Policies and Procedures". SEC. 2012.
+^ a b c Becker, D. M. (2000). "Speech by SEC Staff: New Rules, Old Principles". SEC.
+^ a b c d Hautekiet J. (2011). "The Galleon Insider Trading Case: How To Sentence a Seemingly Victimless Crime?". Berkeley University of California.
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mosaic_theory_(investments)&oldid=1176064449"
+Categories: Stock marketClassified informationHidden categories: All pages needing factual verificationWikipedia articles needing factual verification from September 2023Wikipedia articles needing clarification from August 2023All Wikipedia articles needing clarificationMisleading articles from August 2023All misleading articlesArticles needing additional references from August 2023All articles needing additional referencesArticles with multiple maintenance issuesArticles with short descriptionShort description matches WikidataUse dmy dates from July 2022
+This page was last edited on 19 September 2023, at 07:02 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

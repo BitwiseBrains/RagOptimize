@@ -1,0 +1,391 @@
+Slippage (finance) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Measurement
+Toggle Measurement subsection
+1.1Using initial mid price
+1.2Using initial execution price
+2Example
+3Reverse slippage
+4Further reading
+5See also
+6References
+Toggle the table of contents
+Slippage (finance)
+1 language
+日本語
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Difference between estimated transaction costs and the amount actually paid
+This article is about the financial concept. For other uses, see Slippage.
+With regard to futures contracts as well as other financial instruments, slippage is the difference between where the computer signaled the entry and exit for a trade and where actual clients, with actual money, entered and exited the market using the computer's signals. Market impact, liquidity, and frictional costs may also contribute.
+Algorithmic trading is often used to reduce slippage, and algorithms can be backtested on past data to see the effects of slippage, but it is impossible to eliminate.
+Measurement[edit]
+Using initial mid price[edit]
+Nassim Nicholas Taleb (1997) defines slippage as the difference between the average execution price and the initial midpoint of the bid and the offer for a given quantity to be executed.
+Using initial execution price[edit]
+Knight and Satchell mention a flow trader needs to consider the effect of executing a large order on the market and to adjust the bid-ask spread accordingly. They calculate the liquidity cost as the difference between the execution price and the initial execution price.
+Example[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2021) (Learn how and when to remove this template message)
+Slippage Example on the SPY ETF
+The associated image depicts the Level II (Market Depth) quotes of the SPY ETF (Exchange-Traded Fund) at a given instant in time.
+The left hand side of the image contains the market depth for the current BID prices and the right hand side of the image contains the market depth for the current ASK prices.  Each side of the image contains three columns:
+MM Name: the Market Maker name column
+Price: the "market depth" price
+Size: the number of shares at this price level (represented in hundreds).  So, 2 actually means 200 shares.
+The top left of the image represents the current BID price ($151.07) and the top right of the image represents the current ASK price ($151.08).  At the $151.07 bid price point, there are 300 shares available (200 by the ARCA Market Maker and 100 by the DRCTEDGE).  At the $151.08 ask price point, there are 3900 shares available (2800 by the ARCA Market Maker and 1100 by the BATS Market Maker).  This is typically represented in quote form as:  $151.07 X 300 by $151.08 X 3900).
+To properly understand slippage, let's use the following example:  Say, you (as a trader) wanted to purchase 20,000 shares of SPY right now.  The problem here is that the current ASK price of $151.08 only contains 3900 shares being offered for sale, but you want to purchase 20,000 shares.  If you need to purchase those shares now, then you must use a market order and you will incur slippage by doing so.  Using a market order to purchase your 20,000 shares would yield the following executions (assuming no hidden orders in the market depth):
+Buy 2800 @ $151.08
+Buy 1100 @ $151.08
+Buy 3800 @ $151.09
+Buy 900 @ $151.10
+Buy 3700 @ $151.11
+Buy 1200 @ $151.12
+Buy 3700 @ $151.13
+Buy 200 @ $151.14
+Buy 1000 @ $151.15
+Buy 400 @ $151.18
+Buy 100 @ $151.22
+Buy 600 @ $151.24
+Buy 500 @ $151.25 (only 500 shares out of the 2000 being offered at this price point are executed, because this will represent our entire 20,000 share order)
+The average purchase price of the above execution is $151.11585.  The difference between the current ASK price ($151.08) and the average purchase price ($151.11585) represents the slippage.  In this case, the cost of slippage would be calculated as follows: 20,000 X $151.08 - 20,000 X $151.11585 = $-717.00
+Reverse slippage[edit]
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2021) (Learn how and when to remove this template message)
+Reverse slippage, as described by Taleb, occurs when the purchase of a large position is done at increasing prices, so that the mark to market value of the position increases. The danger occurs when the trader attempts to exit their position. If the trader manages to create a squeeze large enough then this phenomenon can be profitable. This can also be considered a type of market making.
+Further reading[edit]
+Taleb, Nassim Nicolas (1997). Dynamic Hedging: Managing Vanilla and Exotic Options. New York: John Wiley & Sons. ISBN 978-0-471-15280-4.
+John L. Knight, Stephen Satchell (2003). Forecasting Volatility in the Financial Markets. Butterworth-Heinemann. ISBN 978-0-7506-5515-6.
+See also[edit]
+Look up slippage in Wiktionary, the free dictionary.
+Implementation shortfall
+References[edit]
+^ "Measuring Slippage: Make it a Top Priority! – Automated Trading". 30 April 2014.
+^ "Slippage Definition".
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+vteDerivatives marketDerivative (finance)OptionsTerms
+Delta neutral
+Exercise
+Expiration
+Moneyness
+Open interest
+Pin risk
+Risk-free interest rate
+Strike price
+Synthetic position
+the Greeks
+Volatility
+Vanillas
+American
+Bond option
+Call
+Employee stock option
+European
+Fixed income
+FX
+Option styles
+Put
+Warrants
+Exotics
+Asian
+Barrier
+Basket
+Binary
+Callable bull/bear contract
+Chooser
+Cliquet
+Commodore
+Compound
+Forward start
+Interest rate
+Lookback
+Mountain range
+Rainbow
+Spread
+Swaption
+Strategies
+Backspread
+Box spread
+Butterfly
+Calendar spread
+Collar
+Condor
+Covered option
+Credit spread
+Debit spread
+Diagonal spread
+Fence
+Intermarket spread
+Iron butterfly
+Iron condor
+Jelly roll
+Ladder
+Naked option
+Straddle
+Strangle
+Protective option
+Ratio spread
+Risk reversal
+Vertical spread (Bear, Bull)
+Valuation
+Bachelier
+Binomial
+Black
+Black–Scholes (equation)
+Finite difference
+Garman–Kohlhagen
+Heston
+Lattices
+Margrabe
+Put–call parity
+MC Simulation
+Real options
+Trinomial
+Vanna–Volga
+Swaps
+Amortising
+Asset
+Basis
+Commodity
+Conditional variance
+Constant maturity
+Correlation
+Credit default
+Currency
+Dividend
+Equity
+Forex
+Forward Rate Agreement
+Inflation
+Interest rate
+Overnight indexed
+Total return
+Variance
+Volatility
+Year-on-Year Inflation-Indexed
+Zero Coupon
+Zero Coupon Inflation-Indexed
+ForwardsFutures
+Contango
+Commodities future
+Currency future
+Dividend future
+Forward market
+Forward price
+Forwards pricing
+Forward rate
+Futures pricing
+Interest rate future
+Margin
+Normal backwardation
+Perpetual futures
+Single-stock futures
+Slippage
+Stock market index future
+Exotic derivatives
+Commodity derivative
+Energy derivative
+Freight derivative
+Inflation derivative
+Property derivative
+Weather derivative
+Other derivatives
+Collateralized debt obligation (CDO)
+Constant proportion portfolio insurance
+Contract for difference
+Credit-linked note (CLN)
+Credit default option
+Credit derivative
+Equity-linked note (ELN)
+Equity derivative
+Foreign exchange derivative
+Fund derivative
+Fund of funds
+Interest rate derivative
+Mortgage-backed security
+Power reverse dual-currency note (PRDC)
+Market issues
+Consumer debt
+Corporate debt
+Government debt
+Great Recession
+Municipal debt
+Tax policy
+Business portal
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Slippage_(finance)&oldid=1153446746"
+Categories: Stock marketFutures marketsHidden categories: Articles with short descriptionShort description matches WikidataArticles needing additional references from May 2021All articles needing additional references
+This page was last edited on 6 May 2023, at 11:55 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

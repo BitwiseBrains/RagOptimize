@@ -1,0 +1,294 @@
+Market maker - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1In currency exchange
+2In stock exchange
+Toggle In stock exchange subsection
+2.1New York
+2.2London
+2.3Frankfurt
+2.4Tokyo
+3Decentralized network protocols
+4Income of market makers
+5See also
+6References
+7External links
+Toggle the table of contents
+Market maker
+24 languages
+العربيةAzərbaycancaCatalàČeštinaDeutschEspañolفارسیFrançaisÍslenskaItalianoעבריתҚазақшаLietuviųNederlandsनेपाली日本語Norsk bokmålPolskiPortuguêsРусскийSuomiSvenskaУкраїнська中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Stock market trading entity
+Part of a series onFinancial markets
+Public market
+Exchange · Securities
+Bond market
+Bond valuation
+Corporate bond
+Fixed income
+Government bond
+High-yield debt
+Municipal bond
+Securitization
+Stock market
+Common stock
+Preferred stock
+Registered share
+Stock
+Stock certificate
+Stock exchange
+Other markets
+Derivatives (Credit derivativeFutures exchangeHybrid security)
+Foreign exchange (CurrencyExchange rate)
+Commodity
+Money
+Real estate
+Reinsurance
+Over-the-counter (off-exchange)
+ForwardsOptions
+Spot marketSwaps
+Trading
+Participants
+Regulation
+Clearing
+Related areas
+Banks and banking
+Finance
+corporate
+personal
+public
+vte
+A market maker or liquidity provider is a company or an individual that quotes both a buy and a sell price in a tradable asset held in inventory, hoping to make a profit on the bid–ask spread, or turn. The benefit to the firm is that it makes money from doing so; the benefit to the market is that this helps limit price variation (volatility) by setting a limited trading price range for the assets being traded.
+In U.S. markets, the U.S. Securities and Exchange Commission defines a "market maker" as a firm that stands ready to buy and sell stock on a regular and continuous basis at a publicly quoted price. A Designated Primary Market Maker (DPM) is a specialized market maker approved by an exchange to guarantee that they will take a position in a particular assigned security, option, or option index.
+In currency exchange[edit]
+Most foreign exchange trading firms are market makers, as are many banks. The foreign exchange market maker both buys foreign currency from clients and then sells it to other clients. They derive income from the price differentials on such trades, as well as for the service of providing liquidity, reducing transaction costs, and facilitating trade.
+In stock exchange[edit]
+Market makers that stand ready to buy and sell stocks listed on an exchange, such as the New York Stock Exchange (NYSE) or the London Stock Exchange (LSE), are called "third market makers". Most stock exchanges operate on a "matched bargain" or "order driven" basis. When a buyer's bid price meets a seller's offer price or vice versa, the stock exchange's matching system decides that a deal has been executed. In such a system, there may be no designated or official market makers, but market makers nevertheless exist.[citation needed]
+As of October 2008,[update] there were over two thousand market makers in the United States, and over a hundred in Canada.
+New York[edit]
+In the United States, the New York Stock Exchange and American Stock Exchange (AMEX), among others, have designated market makers, formerly known as "specialists", who act as the official market maker for a given security. The market makers provide a required amount of liquidity to the security's market, and take the other side of trades when there are short-term buy-and-sell-side imbalances in customer orders. In return, the specialist is granted various informational and trade execution advantages.
+Other U.S. exchanges, most prominently the NASDAQ stock exchange, employ several competing official market makers in a security. These market makers are required to maintain two-sided markets during exchange hours and are obligated to buy and sell at their displayed bids and offers. They typically do not receive the trading advantages a specialist does, but they do get some, such as the ability to naked short a stock, i.e., selling it without borrowing it. In most situations, only official market makers are permitted to engage in naked shorting. Changes to the rules in the 2000s and 2010s have explicitly banned naked shorting by options market makers.
+In liquid markets like the New York Stock Exchange, nearly every asset has open interest, providing two benefits: price takers can buy or sell at any time, and observers can continually monitor a precise price of every asset.
+A prediction market, or market explicitly designed to uncover the value of an asset, relies heavily on continual price discovery holding true. Prediction markets benefit from automated market makers, or algorithmic traders that maintain constant open interest, providing needed liquidity to the markets that would be difficult to provide naturally.
+Examples of New York market makers are Optiver, Jane Street Capital, Flow Traders, IMC, and Virtu Financial, according to Article 17(13) of Regulation (EU) No 236/2012 of the European Parliament and of the Council
+of 14 March 2012.
+London[edit]
+On the London Stock Exchange there are official market makers for many securities. Some of the LSE's member firms take on the obligation of always making a two-way price in each of the stocks in which they make markets. Their prices are the ones displayed on the Stock Exchange Automated Quotation (SEAQ) system and it is they who generally deal with brokers buying or selling stock on behalf of clients.
+Proponents of the official market making system claim market makers add to the liquidity and depth of the market by taking a short or long position for a time, thus assuming some risk in return for the chance of a small profit. On the LSE, one can always buy and sell stock: each stock always has at least two market makers and they are obliged to deal.
+In contrast, on smaller, order-driven markets such as the JSE Securities Exchange it can be difficult to determine the buying and selling prices of even a small block of stocks that lack a clear and immediate market value because there are often no buyers or sellers on the order board.
+Unofficial market makers are free to operate on order driven markets or, indeed, on the LSE. They do not have the obligation to always be making a two-way price, but they do not have the advantage that everyone must deal with them either.
+Examples of UK Market makers since Big Bang Day are Peel Hunt LLP, Winterflood Securities, Liberum Capital, Shore Capital, Fairfax IS and Altium Securities.
+Prior to the Big Bang, jobbers had exclusive rights of market making on the LSE.
+Frankfurt[edit]
+The Frankfurt Stock Exchange (FWB) runs a system of market makers appointed by the listed companies. These are called "designated sponsors". Designated Sponsors secure higher liquidity by quoting binding prices for buying and selling the shares. The largest market maker by number of mandates in Germany is ODDO BHF Corporates & Markets AG.[citation needed]
+Tokyo[edit]
+Since 2018, the Tokyo Stock Exchange has had an ETF Market Making Incentive Scheme in place, which provides incentives to designated market makers who maintain quoting obligations in qualified ETFs. This list of market makers includes Nomura Securities, Flow Traders, and Optiver.
+Decentralized network protocols[edit]
+This section may be very hard to understand. Relevant discussion may be found on the talk page. Please help clarify it. (March 2022)
+Liquidity provision in a decentralized network protocol works rather differently. There are no companies nor other centralized entities involved at the protocol level. Companies or individuals may, however, choose to use the protocol, by providing liquidity to the protocol, typically in return for the prospect of making an ROI on the assets committed to the liquidity pools. Traditional courts with jurisdiction in defined geographic boundaries may have difficulty regulating or shutting down such protocols, since the protocols have no central or headquarters jurisdiction in which they operate.[citation needed] The network operates on the principles, and according to the code, that is running on the network.
+Income of market makers[edit]
+The income of a market maker is the difference between the bid price, the price at which the firm is willing to buy a stock, and the ask price, the price at which the firm is willing to sell it. It is known as the market-maker spread, or bid–ask spread. Supposing that equal amounts of buy and sell orders arrive and the price never changes, this is the amount that the market maker will gain on each round trip.
+Market makers usually also provide liquidity to the firm's clients, for which they earn a commission.
+See also[edit]
+Divide and choose, analogous to a two-way price
+List of finance topics
+Sales and trading
+References[edit]
+^ Radcliffe, Robert C. (1997). Investment: Concepts, Analysis, Strategy. Addison-Wesley Educational Publishers, Inc. p. 134. ISBN 0-673-99988-2.
+^ a b "Market Makers". Retrieved 17 April 2015.
+^ "Designated Primary Market Maker (DPM) Program Info". CBoe.org. Archived from the original on 2016-10-22. Retrieved 2014-06-25.
+^ "List of U.S. market makers". Archived from the original on 2009-01-22. Retrieved 2008-10-31.
+^ "List of market makers in Canada". Archived from the original on 2007-01-09. Retrieved 2008-10-31.
+^ "'Naked' short-selling ban now permanent". NBCNews. Associated Press. July 27, 2009.
+^ Barker, Alex (October 19, 2011). "EU ban on 'naked' CDS to become permanent". Financial Times. Archived from the original on 2022-12-10. Retrieved 27 September 2012.
+^ a b c Othman, Abraham; Sandholm, Tuomas; Pennock, David; Reeves, Daniel. "A Practical Liquidity-Sensitive Automated Market Maker" (PDF). harvard.edu. Harvard University. Retrieved 14 July 2014.
+^ "List of market makers and authorised primary dealers". esma.europa.eu. European Securities and Markets Authority. Retrieved 28 September 2022.
+^ "Winterflood Home - Winterflood Securities". Wins.co.uk.
+^ "Deutsche Börse Xetra - Designated Sponsors". Archived from the original on 2013-06-09. Retrieved 2013-08-07.
+^ "JPX ETF Market Making Incentive Scheme".
+^ Croman, Kyle; Decker, Christian; Ittay, Eyal; Gencer, Adem Efe; Juels, Ari (31 August 2016). "On Scaling Decentralized Blockchains: (A Position Paper)". Financial Cryptography and Data Security. Lecture Notes in Computer Science. Vol. 9604. Ahmed Kosba, Andrew Miller, Prateek Saxena, Elaine Shi, Emin Gün Sirer, Dawn Song, Roger Wattenhofer. SpringerLink. pp. 106–125. doi:10.1007/978-3-662-53357-4_8. ISBN 978-3-662-53356-7. Retrieved 9 March 2021.
+^ Aldridge, Irene (April 2013). High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems. John Wiley & Sons. ISBN 9781118416822.
+External links[edit]
+Understanding Derivatives: Markets and Infrastructure - Chapter 1 Derivatives Overview Federal Reserve Bank of Chicago, Financial Markets Group
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Authority control databases: National
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Market_maker&oldid=1216144179"
+Category: Financial marketsHidden categories: Articles with short descriptionShort description is different from WikidataAll articles with unsourced statementsArticles with unsourced statements from April 2021Articles containing potentially dated statements from October 2008All articles containing potentially dated statementsArticles with unsourced statements from May 2021Wikipedia articles that are incomprehensible from March 2022All Wikipedia articles that are incomprehensibleArticles with GND identifiers
+This page was last edited on 29 March 2024, at 10:07 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

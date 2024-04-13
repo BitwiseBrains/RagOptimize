@@ -1,0 +1,413 @@
+Share repurchase - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Purpose
+Toggle Purpose subsection
+1.1Tax-efficient distribution of earnings
+2Methods
+Toggle Methods subsection
+2.1Open market
+2.2Accelerated Share Repurchase (ASR)
+2.3Fixed-price tender
+2.4Dutch auction
+3Types
+Toggle Types subsection
+3.1Selective buybacks
+3.2Other types
+4Economic impact
+5Notes
+6Further reading
+Toggle the table of contents
+Share repurchase
+14 languages
+العربيةČeštinaفارسیFrançaisGaeilge한국어עבריתNederlandsPolskiРусскийSvenskaУкраїнськаTiếng Việt中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Reacquisition by a company of its own shares
+The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (October 2018) (Learn how and when to remove this template message)
+S&P 500 dividends and buybacks vs. Federal and State tax collections    State tax revenue    Federal tax revenue     S&P 500 Stock buyback    S&P 500 Dividends
+Share repurchase, also known as share buyback or stock buyback, is the reacquisition by a company of its own shares. It represents an alternate and more flexible way (relative to dividends) of returning money to shareholders. When used in coordination with increased corporate leverage, buybacks can increase share prices.
+In most countries, a corporation can repurchase its own stock by distributing cash to existing shareholders in exchange for a fraction of the company's outstanding equity; that is, cash is exchanged for a reduction in the number of shares outstanding. The company either retires the repurchased shares or keeps them as treasury stock, available for reissuance.
+Under U.S. corporate law, there are six primary methods of stock repurchase: open market, private negotiations, repurchase "put" rights, two variants of self-tender repurchase (a fixed price tender offer and a Dutch auction), and accelerate repurchases. More than 95% of the buyback programs worldwide are through an open-market method, whereby the company announces the buyback program and then repurchases shares in the open market (stock exchange). In the late 20th and the early 21st century, there was a sharp rise in the volume of share repurchases in the United States: US$5 billion in 1980 rose to US$349 billion in 2005. Large share repurchases started later in Europe than in the United States, but are nowadays a common practice around the world.
+U.S. Securities and Exchange Commission (SEC) rule 10b-18 sets requirements for stock repurchase in the United States. Rule 10b-18 provides a voluntary "safe harbor" from liability for market manipulation under Sections 9(a)(2) and 10(b) of the Securities Exchange Act of 1934.
+Purpose[edit]
+Companies typically have two uses for profits. Firstly, some part of profits can be distributed to shareholders in the form of dividends or stock repurchases. The remainder of profits are retained earnings, kept inside the company and used for investing in the future of the company, if profitable ventures for reinvestment of retained earnings can be identified. However, sometimes companies may find that some or all of their retained earnings cannot be reinvested to produce acceptable returns.
+Share repurchases are an alternative to dividends. When a company repurchases its own shares, it reduces the number of shares held by the public. The reduction of the float, or publicly traded shares, means that even if profits remain the same, the earnings per share increase. Repurchasing shares when a company's share price is undervalued benefits non-selling shareholders (frequently insiders) and extracts value from shareholders who sell. There is strong evidence that companies are able to profitably repurchase shares when the company is widely held by retail investors who are unsophisticated (e.g., small investors) and more likely to sell their shares to the company when those shares are undervalued. By contrast, when the company is held primarily by insiders and institutional investors, who are more sophisticated, it is harder for companies to profitably repurchase shares. Companies can also more readily repurchase shares at a profit when the stock is liquidly traded and the companies' activity is less likely to move the share price.
+Financial markets are unable to accurately gauge the meaning of repurchase announcements, because companies will often announce repurchases and then fail to complete them. Repurchase completion rates increased after companies were required to retroactively disclose their repurchase activity, the result of an effort to reduce the perceived or potential exploitation of public investors. Normally, investors have more of an adverse reaction to dividend cuts than postponing or even abandoning the share buyback program. So, rather than pay out larger dividends during periods of excess profitability then having to reduce them during leaner times, companies prefer to pay out a conservative portion of their earnings, perhaps half, with the aim of maintaining an acceptable level of dividend cover. Some evidence of this phenomenon for American firms is provided by Alok Bhargava who found that higher dividend payments lower share repurchases though the converse is not true.
+Aside from paying out free cash flow, repurchases may also be used to signal and/or take advantage of undervaluation. If a firm's manager believes their firm's stock is currently trading below its intrinsic value, they may consider repurchases. An open market repurchase, whereby no premium is paid on top of current market price, offers a potentially profitable investment for the manager. That is, they may repurchase the currently undervalued shares, wait for the market to correct the undervaluation whereby prices increase to the intrinsic value of the equity, and re-issue them at a profit. Alternatively, they may undertake a fixed price tender offer, whereby a premium is often offered over current market price; this sends a strong signal to the market that they believe that the firm's equity is undervalued, which is proven by their willingness to pay above market price to repurchase the shares. However, scholars also suggest that repurchases sometimes might be a cheap talk and convey a misleading signal due to the flexibility of repurchases.
+Company executive compensation is often affected by share buybacks. Part of their rewards may be tied to their ability to meet earnings per share targets. Moreover, all share buybacks enhance the value of promised shares in their share incentive schemes. Bhargava reported that stock options exercised by top executives increase future share repurchases by U.S. firms. Higher share repurchases, in turn, significantly lowered the research and development expenditures that are important for raising productivity. Further, increasing earnings per share does not equate to increases in shareholder value. This investment ratio is influenced by accounting policy choices and fails to take into account the cost of capital and future cash flows which are the determinants of shareholder value.
+Safeguards should be in place to ensure that decisions about share buybacks are not motivated by their effect on executive or managerial reward. Earnings per share targets need adjusting to take out the financial leveraging effect of the buyback and similarly share incentive schemes need adjusting to neutralize unwarranted enhancement.
+Share repurchases avoid the accumulation of excessive amounts of cash in the corporation. Companies with strong cash generation and limited needs for capital spending will accumulate cash on the balance sheet, which makes the company a more attractive target for takeover, since the cash can be used to pay down the debt incurred to carry out the acquisition. Anti-takeover strategies, therefore, often include maintaining a lean cash position and share repurchases bolster the stock price, making a takeover more expensive.
+Tax-efficient distribution of earnings[edit]
+Share repurchases also allow companies to distribute their earnings to investors without resulting in immediate taxation on capital gains. For example, if a company were to pay $100,000 in dividends on one million shares or as 10¢ dividend per share, investors may incur tax upon this disbursement. This means that instead of receiving 10¢ of earnings per share, they receive 8.5¢ (.10×(1 − .15)) at a 15% tax rate with 1.5¢ going to the government. An investor with 10 shares will receive 85¢ and the government collects 15¢. As the company has to pay out this money the share price drops accordingly, from $10 to $9.90, so the investor with 10 shares now has $99 + 85¢ dividend, or $99.85. Of course, investors will not necessarily respond to a dividend payment by selling off shares and reducing share price; while the payment of the dividend technically reduces the company's book value, the ability and willingness to pay a dividend is often seen positively, and the share price may even increase.
+Compare this with spending $100,000 buying back shares. This will remove 10,000 shares from the market, leaving 990,000 shares at $10 each (($10,000,000 − US$100,000)/990,000 = $10). Now, the investor with 10 shares still has US$100, and the government receives no immediate tax revenue. Ultimately, there should be no net change in investor wealth assuming a fully equity-financed business. This disparity however assumes there is no capital gains tax for the selling shareholders.
+NYU professor Edward Wolff has criticized this approach for exacerbating the existing wealth inequality in the U.S. by shifting the tax burden away from the richest 1% of U.S families, which by 2016 held nearly 40% of the nation's wealth, to the bottom 90% which holds nearly half this amount.
+Share buybacks are more tax-efficient than dividends when the tax rate on capital gains is lower than the tax rate on dividends.
+Country
+Top Marginal Tax Rate on Capital Gains (2015)
+Top Marginal Dividend Tax Rate (2015)
+Spread in Tax Rates
+South Korea
+0.0%
+35.4%
++35.4%
+Belgium
+0.0%
+25.0%
++25.0%
+Netherlands
+0.0%
+25.0%
++25.0%
+Slovenia
+0.0%
+25.0%
++25.0%
+Switzerland
+0.0%
+21.1%
++21.1%
+Luxembourg
+0.0%
+20.0%
++20.0%
+Ireland
+33.0%
+51.0%
++18.0%
+Turkey
+0.0%
+17.5%
++17.5%
+Czech Republic
+0.0%
+15.0%
++15.0%
+Canada
+22.6%
+33.8%
++11.2%
+France
+34.4%
+44.0%
++9.6%
+Mexico
+10.0%
+17.1%
++7.1%
+New Zealand
+0.0%
+6.9%
++6.9%
+Israel
+25.0%
+30.0%
++5.0%
+Australia
+24.5%
+27.1%
++2.6%
+Chile
+20.0%
+22.6%
++2.6%
+United Kingdom
+28.0%
+30.6%
++2.6%
+Germany
+25.0%
+26.4%
++1.4%
+Denmark
+42.0%
+42.0%
+0.0%
+Sweden
+30.0%
+30.0%
+0.0%
+United States
+28.6%
+28.6%
+0.0%
+Portugal
+28.0%
+28.0%
+0.0%
+Norway
+27.0%
+27.0%
+0.0%
+Italy
+26.0%
+26.0%
+0.0%
+Austria
+25.0%
+25.0%
+0.0%
+Japan
+20.3%
+20.3%
+0.0%
+Iceland
+20.0%
+20.0%
+0.0%
+Poland
+19.0%
+19.0%
+0.0%
+Hungary
+16.0%
+16.0%
+0.0%
+Spain
+27.0%
+24.0%
+−3.0%
+Finland
+33.0%
+28.1%
+−4.9%
+Greece
+15.0%
+10.0%
+−5.0%
+Estonia
+21.0%
+0.0%
+−21.0%
+Slovak Republic
+25.0%
+0.0%
+−25.0%
+Methods[edit]
+Open market[edit]
+The most common share repurchase method in the United States is the open-market stock repurchase, representing almost 95% of all repurchases. A firm will announce that it will repurchase some shares in the open market from time to time as market conditions dictate and maintains the option of deciding whether, when, and how much to repurchase. Open-market repurchases can span months or even years. There are, however, daily buyback limits which restrict the amount of stock that can be bought over a particular time interval again ranging from months to even years. According to SEC Rule 10b-18, the issuer cannot purchase more than 25% of the average daily volume.
+Accelerated Share Repurchase (ASR)[edit]
+An accelerated share repurchase (ASR) is a share buyback strategy where a company repurchases a large chunk of its publicly traded equity shares. Companies rely on specialized investment banks to effectuate the transaction. In a typical ASR transaction, the company delivers the cash up front to the investment bank and enters into a forward contract to have its shares delivered at specified future date, adhering to regulations. Subsequently, the bank, borrows shares of the company, and delivers those shares back to the company. Companies often engage in accelerated share repurchase (ASR) programs, if they have certain convictions about the intrinsic valuation of the company or if they have commitments of capital return to shareholders.
+Fixed-price tender[edit]
+Prior to 1981, all tender offer repurchases were executed using a fixed-price tender offer. This offer specifies in advance a single purchase price, the number of shares sought, and the duration of the offer, with public disclosure required. The offer may be made conditional upon receiving tenders of a minimum number of shares, and it may permit withdrawal of tendered shares prior to the offer's expiration date. Shareholders decide whether or not to participate, and if so, the number of shares to tender to the firm at the specified price. Frequently, officers and directors are precluded from participating in tender offers. If the number of shares tendered exceeds the number sought, then the company purchases less than all shares tendered at the purchase price on a pro rata basis to all who tendered at the purchase price. If the number of shares tendered is below the number sought, the company may choose to extend the offer's expiration date.
+Dutch auction[edit]
+The introduction of the Dutch auction share repurchase in 1981 allows an alternative form of tender offer. A Dutch auction offer specifies a price range within which the shares will ultimately be purchased. Shareholders are invited to tender their stock, if they desire, at any price within the stated range. The firm then compiles these responses, creating a demand curve for the stock. The purchase price is the lowest price that allows the firm to buy the number of shares sought in the offer, and the firm pays that price to all investors who tendered at or below that price. If the number of shares tendered exceeds the number sought, then the company purchases less than all shares tendered at or below the purchase price on a pro rata basis to all who tendered at or below the purchase price. If too few shares are tendered, then the firm either cancels the offer (provided it had been made conditional on a minimum acceptance), or it buys back all tendered shares at the maximum price.
+The first firm to use the Dutch auction was Todd Shipyards in 1981.
+Types[edit]
+Selective buybacks[edit]
+In broad terms, a selective buyback is one in which identical offers are not made to every shareholder, for example, if offers are made to only some of the shareholders in the company. In the United States, no special shareholder approval of a selective buyback is required. In the UK, however, the scheme must first be approved by all shareholders, or by a special resolution (requiring a 75% majority) of the members in which no vote is cast by selling shareholders or their associates. Selling shareholders may not vote in favor of a special resolution to approve a selective buyback. The notice to shareholders convening the meeting to vote on a selective buyback must include a statement setting out all material information that is relevant to the proposal, although it is not necessary for the company to provide information already disclosed to the shareholders, if that would be unreasonable.
+Other types[edit]
+A company may also buy back shares held by or for employees or salaried directors of the company or a related company. This type of buyback, referred to as an "employee share scheme buyback", requires an ordinary resolution. A listed company may also buy back its shares in on-market trading on the stock exchange, following the passing of an ordinary resolution if over the 10/12 limit. The stock exchange's rules apply to "on-market buybacks". A listed company may also buy unmarketable parcels of shares from shareholders (called a "minimum holding buyback"). This does not require a resolution but the purchased shares must still be canceled.
+Economic impact[edit]
+See also: Great Regression
+Share repurchases have been critically evaluated since the 1970's but after 1982, the Securities and Exchange Commission largely condoned them. At that time, the agency already ascertained "that a large volume of stock buybacks would manipulate the market". Only when Rule 10b-18 was implemented in the US, stock repurchases were seen as "virtually unregulated".
+According to Lenore Palladino, an economist at the Roosevelt Institute, stock buy back programs are "one of the drivers of our imbalanced economy, in which corporate profits and shareholder payments continue to grow while wages for typical workers stay flat."
+In April 2022, after Starbucks brought back Howard Schultz as interim CEO, he suspended its stock repurchasing program, and said "This decision will allow us to invest more into our people and our stores — the only way to create long-term value for all stakeholders."
+Repurchases account for a small fraction of the trading volume in a typical stock, making their price impact too small to generate short-term price manipulation. The price increase after buybacks is modest and does not reverse on average, suggesting that the small price increases following repurchases signal the companies' good prospects. There is also no evidence that CEOs of repurchasing firms are overpaid or that repurchases crowd out valuable investment opportunities.
+Notes[edit]
+^ "Share Repurchase Definition". Investopedia.
+^ a b Fernandes, Nuno (2014). Finance for executives: a practical guide for managers. NPV Publishing. ISBN 978-989-98854-0-0. OCLC 878598064.
+^ "How share buybacks and cheap debt are used to boost stock prices". Banking Observer. Retrieved 4 Sep 2022.
+^ "Accelerated Share Repurchase (ASR)".
+^ For evidence of the increased use of share repurchases, see Bagwell, Laurie Simon and John Shoven, "Cash Distributions to Shareholders" 1989, Journal of Economic Perspectives, Vol. 3 No. 3, Summer, 129–140.
+^ a b "Rule 10b-18". Investopedia. Retrieved 10 Apr 2014.
+^ "SEC.gov | Division of Trading and Markets:Answers to Frequently Asked Questions Concerning Rule 10b-18 ("Safe Harbor" for Issuer Repurchases)". www.sec.gov. Retrieved 2024-03-09.
+^ "Float". Investopedia. Retrieved November 20, 2009.
+^ Bhargava, Alok (2010). "An Econometric Analysis of Dividends and Share Repurchases by US Firms". Journal of the Royal Statistical Society, Series A, 173, 631–656.
+^ Chan, Konan; Ikenberry, David; Lee, Inmoo; Wang, Yanzhi (2010). "Share repurchases as a potential tool to mislead investors". Journal of Corporate Finance. 16 (2): 137–158. doi:10.1016/j.jcorpfin.2009.10.003. hdl:10203/25259.
+^ a b http://www.propershareschemeadjustment.com Archived 2015-10-22 at the Wayback Machine
+^ Bhargava, Alok (2013). "Executive Compensation, Share Repurchases and Investment Expenditures: Econometric Evidence from US Firms". Review of Quantitative Finance and Accounting, 40, 403–422.
+^ Reddy, K.S., Nangia, V.K., & Agrawal, R. (2013). "Share Repurchases, Signalling Effect and Implications for Corporate Governance: Evidence from India". Asia-Pacific Journal of Management Research and Innovation, 9#1, 107–124.
+^ "Are stock buybacks deepening America's inequality?". 5 March 2018.
+^ Pomerleau, Kyle (March 24, 2015). "U.S. Taxpayers Face the 6th Highest Top Marginal Capital Gains Tax Rate in the OECD". taxfoundation.org.
+^ "Table II.4. Overall statutory tax rates on dividend income". stats.oecd.org.
+^ a b Bagwell, Laurie Simon, "Dutch Auction Repurchases: An Analysis of Shareholder Heterogeneity" 1992, Journal of Finance, Vol. 47, No. 1, 71–105.
+^ The 10/12 limit refers to ASIC's requirement that companies buy back no more than 10% of the voting rights in the company within 12 months – "Share Buybacks", Australian Securities and Investments Commission
+^ "Examining Corporate Priorities: The Impact of Stock Buybacks on Workers, Communities and Investors" corpgov.law.harvard.edu. Retrieved 6 April 2022.
+^ Starbucks' "Longtime CEO is back again. This time, things are different" NPR. Retrieved 6 April 2022.
+^ Guest, Nicholas, Kothari, S. P., & Venkat, Parth  (2023). "Share repurchases on trial: Large-sample evidence on share price performance, executive compensation, and corporate investment". Financial Management.
+Further reading[edit]
+Andriosopoulos, Dimitris, and Meziane Lasfer. "The market valuation of share repurchases in Europe". Journal of Banking & Finance 55 (2015): 327–339.  online
+Jun, Sang-gyung, Mookwon Jung, and Ralph A. Walkling. "Share repurchase, executive options and wealth changes to stockholders and bondholders". Journal of Corporate Finance 15.2 (2009): 212–229.
+Schumpeter, "Six muddles about share buy-backs: Stock repurchases by American firms are on the rise. So is the confusion surrounding them". The Economist 31 May 2018.
+Wesson, N., B. W. Bruwer, and W. D. Hamman. "Share repurchase and dividend payout behaviour: The South African experience". South African Journal of Business Management 46.3 (2015): 43–54.
+Look up Share repurchase in Wiktionary, the free dictionary.
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Share_repurchase&oldid=1212818603"
+Categories: Stock marketContexts for auctionsHidden categories: Webarchive template wayback linksArticles with short descriptionShort description is different from WikidataArticles with limited geographic scope from October 2018
+This page was last edited on 9 March 2024, at 18:36 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

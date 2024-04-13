@@ -1,0 +1,519 @@
+Over-the-counter (finance) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Stocks
+2Contracts
+3Counterparty risk
+4Importance of OTC derivatives in modern banking
+5See also
+6Notes
+7Citations
+8References
+9External links
+Toggle the table of contents
+Over-the-counter (finance)
+28 languages
+العربيةCatalàČeštinaDeutschEspañolفارسیFrançais한국어Հայերենहिन्दीItalianoעבריתLatviešuLietuviųNederlandsनेपाली日本語Norsk bokmålPolskiPortuguêsРусскийSuomiSvenskaTürkçeУкраїнськаTiếng Việt粵語中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Trading done directly between two parties
+The examples and perspective in this article deal primarily with the United States and do not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (January 2014) (Learn how and when to remove this template message)
+For type of medicine, see Over-the-counter drug.
+Part of a series onFinancial markets
+Public market
+Exchange · Securities
+Bond market
+Bond valuation
+Corporate bond
+Fixed income
+Government bond
+High-yield debt
+Municipal bond
+Securitization
+Stock market
+Common stock
+Preferred stock
+Registered share
+Stock
+Stock certificate
+Stock exchange
+Other markets
+Derivatives (Credit derivativeFutures exchangeHybrid security)
+Foreign exchange (CurrencyExchange rate)
+Commodity
+Money
+Real estate
+Reinsurance
+Over-the-counter (off-exchange)
+ForwardsOptions
+Spot marketSwaps
+Trading
+Participants
+Regulation
+Clearing
+Related areas
+Banks and banking
+Finance
+corporate
+personal
+public
+vte
+Over-the-counter (OTC) or off-exchange trading or pink sheet trading is done directly between two parties, without the supervision of an exchange. It is contrasted with exchange trading, which occurs via exchanges. A stock exchange has the benefit of facilitating liquidity, providing transparency, and maintaining the current market price. In an OTC trade, the price is not necessarily publicly disclosed.
+OTC trading, as well as exchange trading, occurs with commodities, financial instruments (including stocks), and derivatives of such products. Products traded on traditional stock exchanges, and other regulated bourse platforms, must be well standardized. This means that exchanged deliverables match a narrow range of quantity, quality, and identity which is defined by the exchange and identical to all transactions of that product. This is necessary for there to be transparency in stock exchange-based equities trading.
+The OTC market does not have this limitation. Parties may agree on an unusual quantity, for example. In OTC, market contracts are bilateral (i.e. the contract is only between two parties), and each party could have credit risk concerns with respect to the other party. The OTC derivative market is significant in some asset classes: interest rate, foreign exchange, stocks, and commodities.
+In 2008, approximately 16% of all U.S. stock trades were "off-exchange trading"; by April 2014, that number increased to about 40%. Although the notional amount outstanding of OTC derivatives in late 2012 had declined 3.3% over the previous year, the volume of cleared transactions at the end of 2012 totalled US$346.4 trillion. The Bank for International Settlements statistics on OTC derivatives markets showed that "notional amounts outstanding totalled $693 trillion at the end of June 2013... The gross market value of OTC derivatives – that is, the cost of replacing all outstanding contracts at current market prices – declined between end-2012 and end-June 2013, from $25 trillion to $20 trillion."
+Stocks[edit]
+Further information: Penny stock and Microcap stock
+In the United States, over-the-counter trading in stock is carried out by market makers using inter-dealer quotation services such as OTC Link (a service offered by OTC Markets Group).
+Although exchange-listed stocks can be traded OTC on the third market, it is rarely the case. Usually OTC stocks are not listed nor traded on exchanges, and vice versa. Stocks quoted on the OTCBB must comply with certain limited U.S. Securities and Exchange Commission (SEC) reporting requirements.
+The SEC imposes more stringent financial and reporting requirements on other OTC stocks, specifically the OTCQX stocks (traded through the OTC Market Group Inc). Other OTC stocks have no reporting requirements, for example Pink Sheets securities and "gray market" stocks. However, in 2021, the pink sheets market came under the spotlight of greater regulatory scrutiny.
+Some companies, with Wal-Mart as one of the largest, began trading as OTC stocks and eventually upgraded to a listing on fully regulated market. By 1969 Wal-Mart Stores Inc. was incorporated. In 1972, with stores in five states, including Arkansas, Kansas, Louisiana, Oklahoma and Missouri, Wal-Mart began trading as over-the-counter (OTC) stocks. By 1972 Walmart had earned over US$1 billion in sales — the fastest company to ever accomplish this. In 1972 Wal-Mart was listed on the New York Stock Exchange (NYSE) under the ticker symbol WMT.
+In Kiplinger in 2017, Dan Burrows wrote that American OTC markets are rife with penny stock fraud and other risks, and should generally be avoided by investors "with the exception of large, established foreign firms". Reputable companies located outside the U.S., he notes, sometimes sell stock over-the-counter to gain access to American markets while avoiding the expense of keeping two sets of audited paperwork to be listed on multiple stock exchanges (one in their homeland or to international standards, and one for American standards).
+Contracts[edit]
+An over-the-counter is a bilateral contract in which two parties (or their brokers or bankers as intermediaries) agree on how a particular trade or agreement is to be settled in the future. It is usually from an investment bank to its clients directly. Forwards and swaps are prime examples of such contracts. It is mostly done online or by telephone. For derivatives, these agreements are usually governed by an International Swaps and Derivatives Association agreement. This segment of the OTC market is occasionally referred to as the "Fourth Market". Critics have labelled the OTC market as the "dark market" because prices are often unpublished and unregulated.
+Over-the-counter derivatives are especially important for hedging risk in that they can be used to create a "perfect hedge". With exchange traded contracts, standardization does not allow for as much flexibility to hedge risk because the contract is a one-size-fits-all instrument. With OTC derivatives, though, a firm can tailor the contract specifications to best suit its risk exposure.
+Counterparty risk[edit]
+OTC derivatives can lead to significant risks. Especially counterparty risk has gained particular emphasis due to the credit crisis in 2007. Counterparty risk is the risk that a counterparty in a derivatives transaction will default prior to expiration of the trade and will not make the current and future payments required by the contract. There are many ways to limit counterparty risk. One of them focuses on controlling credit exposure with diversification, netting, collateralisation and hedging. Central counterparty clearing of OTC trades has become more common in recent years, with regulators placing pressure on the OTC markets to clear and display trades openly.
+In their market review published in 2010, the International Swaps and Derivatives Association[Notes 1] examined OTC Derivative Bilateral Collateralization Practice as one way of mitigating risk.
+Importance of OTC derivatives in modern banking[edit]
+OTC derivatives are a significant part of the world of global finance. The OTC derivatives markets grew exponentially from 1980 through 2000. This expansion has been driven by interest rate products, foreign exchange instruments and credit default swaps. The notional outstanding of OTC derivatives markets rose throughout the period and totalled approximately US$601 trillion at December 31, 2010.
+In their 2000 paper by Schinasi et al. published by the International Monetary Fund in 2001, the authors observed that the increase in OTC derivatives transactions would have been impossible "without the dramatic advances in information and computer technologies" that occurred from 1980 to 2000. During that time, major internationally active financial institutions significantly increased the share of their earnings from derivatives activities. These institutions manage portfolios of derivatives involving tens of thousands of positions and aggregate global turnover over $1 trillion. At that time prior to the financial crisis of 2008, the OTC market was an informal network of bilateral counter-party relationships and dynamic, time-varying credit exposures whose size and distribution tied to important asset markets. International financial institutions increasingly nurtured the ability to profit from OTC derivatives activities and financial markets participants benefitted from them. In 2000 the authors acknowledged that the growth in OTC transactions "in many ways made possible, the modernization of commercial and investment banking and the globalization of finance". However, in September, an IMF team led by Mathieson and Schinasi cautioned that "episodes of turbulence" in the late 1990s "revealed the risks posed to market stability originated in features of OTC derivatives instruments and markets.
+See also[edit]
+Collateral management
+Dark liquidity
+Delta one
+London Platinum and Palladium Market
+Special settlement (securities)
+Notes[edit]
+^ ISDA 2012 Market Analysis drew on "information sources including LCH.Clearnet's SwapClear, TriOptima, the DTCC Trade Information Warehouse, Markit, ICE, CME, ISDA's 2012 Margin Survey and other clearinghouses and trade vendors."
+Citations[edit]
+^ Murphy, Chris B. (April 21, 2021). "A Review of Pink Sheet Stocks and How Investors Can Trade Them". Investopedia. Retrieved 2022-04-02.
+^ a b c McCrank 2014.
+^ Gregory 2011, p. 7.
+^ ISDA 2013.
+^ Bank for International Settlements (BIS) 2013.
+^  Price, Michelle; Mccrank, John (2021-09-23). "U.S. 'pink sheets' in shakeup as securities regulator looks to stamp out fraud". Reuters. Retrieved 2023-05-09.
+^ a b Better Trades 2012.
+^ Dan Burroughs (2017-11-15). Penny Stocks: Why You Should Always Stay Away. Kiplinger.com, accessed 18 July 2020
+^ chicagofed.org
+^ Gregory 2011, p. 17.
+^ Gregory 2011, p. 25.
+^ OTC Clearing 'FIX'ed Up. FIXGlobal.
+^ A Focus on OTC Clearing Innovation Archived 2011-09-29 at the Wayback Machine. Intercontinental Exchange.
+^ a b International Swaps and Derivatives Association (ISDA) 2010.
+^ a b Schinasi et al. 2001, pp. 5–7.
+^ Mathieson & Schinasi 2000, p. 3.
+References[edit]
+Monetary and Economic Department (November 2013), "Statistical release: OTC derivatives statistics at end June 2013" (PDF), Bank for International Settlements (BIS), retrieved 12 April 2014
+"WMT Overview", Better Trades, 2012, archived from the original on 13 April 2014, retrieved 12 April 2014
+"Market Review of OTC Derivative Bilateral Collateralization Practices" (PDF), International Swaps and Derivatives Association (ISDA), 1 March 2010, archived from the original (PDF) on 12 May 2013, retrieved 12 April 2014
+"OTC Derivatives Market Analysis, Year-End 2010", ISDA, 26 May 2011
+"OTC Derivatives Market Analysis, Year-End 2012", ISDA, June 2013
+Gregory, Jon (7 September 2011), Counterparty Credit Risk: The new challenge for global financial markets, John Wiley & Sons, p. 448, ISBN 978-0-470-68576-1
+Mathieson, Donald J.; Schinasi, Garry J. (September 2000), International Capital Markets: Developments, Prospects, and Key Policy Issues (PDF), World Economic and Financial Surveys
+McCrank, John (6 April 2014), Dark markets may be more harmful than high-frequency trading, New York: Reuters, retrieved 12 April 2014
+Schinasi, Garry J.; Craig, R. Sean; Drees, Burkhard; Kramer, Charles (9 January 2001), Modern Banking and OTC Derivatives Markets: The Transformation of Global Finance and its Implications for Systemic Risk, International Monetary Fund, ISBN 1-55775-999-5, retrieved 12 April 2014
+External links[edit]
+European Union proposals on derivatives regulation - 2008 onwards
+Understanding Derivatives: Markets and Infrastructure – Chapter 3, Over-the-Counter Derivatives By Richard Heckinger, Ivana Ruffini, and Kirstin Wells (Federal Reserve Bank of Chicago)
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+vteDerivatives marketDerivative (finance)OptionsTerms
+Delta neutral
+Exercise
+Expiration
+Moneyness
+Open interest
+Pin risk
+Risk-free interest rate
+Strike price
+Synthetic position
+the Greeks
+Volatility
+Vanillas
+American
+Bond option
+Call
+Employee stock option
+European
+Fixed income
+FX
+Option styles
+Put
+Warrants
+Exotics
+Asian
+Barrier
+Basket
+Binary
+Callable bull/bear contract
+Chooser
+Cliquet
+Commodore
+Compound
+Forward start
+Interest rate
+Lookback
+Mountain range
+Rainbow
+Spread
+Swaption
+Strategies
+Backspread
+Box spread
+Butterfly
+Calendar spread
+Collar
+Condor
+Covered option
+Credit spread
+Debit spread
+Diagonal spread
+Fence
+Intermarket spread
+Iron butterfly
+Iron condor
+Jelly roll
+Ladder
+Naked option
+Straddle
+Strangle
+Protective option
+Ratio spread
+Risk reversal
+Vertical spread (Bear, Bull)
+Valuation
+Bachelier
+Binomial
+Black
+Black–Scholes (equation)
+Finite difference
+Garman–Kohlhagen
+Heston
+Lattices
+Margrabe
+Put–call parity
+MC Simulation
+Real options
+Trinomial
+Vanna–Volga
+Swaps
+Amortising
+Asset
+Basis
+Commodity
+Conditional variance
+Constant maturity
+Correlation
+Credit default
+Currency
+Dividend
+Equity
+Forex
+Forward Rate Agreement
+Inflation
+Interest rate
+Overnight indexed
+Total return
+Variance
+Volatility
+Year-on-Year Inflation-Indexed
+Zero Coupon
+Zero Coupon Inflation-Indexed
+ForwardsFutures
+Contango
+Commodities future
+Currency future
+Dividend future
+Forward market
+Forward price
+Forwards pricing
+Forward rate
+Futures pricing
+Interest rate future
+Margin
+Normal backwardation
+Perpetual futures
+Single-stock futures
+Slippage
+Stock market index future
+Exotic derivatives
+Commodity derivative
+Energy derivative
+Freight derivative
+Inflation derivative
+Property derivative
+Weather derivative
+Other derivatives
+Collateralized debt obligation (CDO)
+Constant proportion portfolio insurance
+Contract for difference
+Credit-linked note (CLN)
+Credit default option
+Credit derivative
+Equity-linked note (ELN)
+Equity derivative
+Foreign exchange derivative
+Fund derivative
+Fund of funds
+Interest rate derivative
+Mortgage-backed security
+Power reverse dual-currency note (PRDC)
+Market issues
+Consumer debt
+Corporate debt
+Government debt
+Great Recession
+Municipal debt
+Tax policy
+Business portal
+vteFinancial risk and financial risk managementCategoriesCredit risk
+Consumer credit risk
+Sovereign credit risk
+Settlement risk
+Default risk
+Concentration risk
+Credit derivative
+Securitization
+Market risk
+Commodity risk (e.g. Volume risk, Basis risk, Shape risk, Holding period risk, Price area risk)
+Equity risk
+Valuation risk
+FX risk
+Margining risk
+Interest rate risk
+Inflation risk
+Volatility risk
+Liquidity risk (e.g. Refinancing risk, Deposit risk)
+Operational risk
+Operational risk management
+Business risk
+Model risk
+Reputational risk
+Country risk
+Political risk
+Legal risk
+Other
+Execution risk
+Profit risk
+Systemic risk
+Non-financial risk
+Modeling
+Arbitrage pricing theory
+Black–Scholes model
+Replicating portfolio
+Cash flow matching
+Conditional Value-at-Risk (CVaR)
+Copula
+Drawdown
+First-hitting-time model
+Interest rate immunization
+Market portfolio
+Modern portfolio theory
+Omega ratio
+RAROC
+Risk-free rate
+Risk parity
+Sharpe ratio
+Sortino ratio
+Survival analysis (Proportional hazards model)
+Tracking error
+Value-at-Risk (VaR) and extensions (Profit at risk, Margin at risk, Liquidity at risk, Cash flow at risk, Earnings at risk)
+Basic concepts
+Diversification
+Expected return
+Hazard
+Hedge
+Risk
+Risk pool
+Systematic risk
+Financial law
+Moral hazard
+Financial economics
+Investment management
+Mathematical finance
+Authority control databases International
+FAST
+National
+France
+BnF data
+Germany
+Israel
+United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Over-the-counter_(finance)&oldid=1188182721"
+Categories: Financial riskStock marketDerivatives (finance)Financial marketsElectronic trading systemsMathematical financeHidden categories: Webarchive template wayback linksArticles with short descriptionShort description is different from WikidataArticles with limited geographic scope from January 2014United States-centricArticles with FAST identifiersArticles with BNF identifiersArticles with BNFdata identifiersArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiers
+This page was last edited on 3 December 2023, at 21:03 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

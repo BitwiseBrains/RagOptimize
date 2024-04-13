@@ -1,0 +1,377 @@
+Yield (finance) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Fixed income securities
+2Preferred shares
+3Common shares
+4REITs, royalty trusts, income trusts, annuities
+5Real estate and property
+6Factors affecting the yield
+7Special cases
+8See also
+9References
+Toggle the table of contents
+Yield (finance)
+9 languages
+DanskDeutschفارسیFrançaisFryskBahasa IndonesiaNederlandsРусскийSimple English
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+In other projects
+Wikimedia Commons
+From Wikipedia, the free encyclopedia
+Financial term
+For other uses, see Yield.
+Part of a series onFinance
+Markets
+Assets
+Bond
+Commodity
+Derivatives
+Foreign exchange
+Money
+Over-the-counter
+Private equity
+Real estate
+Spot
+Stock
+Participants
+Investor
+institutional
+Retail
+Speculator
+Locations
+Financial centres
+Offshore financial centres
+Conduit and sink OFCs
+Instruments
+Bond
+Cash
+Collateralised debt obligation
+Credit default swap
+Time deposit (certificate of deposit)
+Credit line
+Deposit
+Derivative
+Futures contract
+Indemnity
+Insurance
+Letter of credit
+Loan
+Mortgage
+Option (callexoticput)
+Performance bonds
+Repurchase agreement
+Stock
+Security
+Syndicated loan
+Synthetic CDO
+Corporate
+General
+Accounting
+Audit
+Capital budgeting
+Credit rating agency
+Risk management
+Financial statements
+Transactions
+Leveraged buyout
+Mergers and acquisitions
+Structured finance
+Venture capital
+Taxation
+Base erosion and profit shifting (BEPS)
+Corporate tax haven
+Tax inversion
+Tax haven
+Transfer pricing
+Personal
+Credit / Debt
+Employment contract
+Financial planning
+RetirementStudent loan
+Public
+Government spending
+Final consumption expenditure
+OperationsRedistribution
+Transfer payment
+Government revenue
+TaxationDeficit spending
+Budget (balance)Debt
+Non-tax revenue
+Warrant of payment
+Banking
+Central bank
+Deposit account
+Fractional-reserve
+Full-reserve
+Loan
+Money supply
+Lists of banks
+Bank regulation
+Banking license
+Basel Accords
+Bank for International Settlements
+Financial Stability Board
+Deposit insurance
+Separation of investment and retail banking
+Regulation · Financial law
+International Financial Reporting Standards
+ISO 31000
+Professional certification
+Fund governance
+Economic history
+Private equity and venture capital
+Recession
+Stock market bubble
+Stock market crash
+Accounting scandals
+Business and Economics portal
+Money portalvte
+In finance, the yield on a security is a measure of the ex-ante return to a holder of the security. It is one component of return on an investment, the other component being the change in the market price of the security. It is a measure applied to fixed income securities, common stocks, preferred stocks, convertible stocks and bonds, annuities and real estate investments.
+There are various types of yield, and the method of calculation depends on the particular type of yield and the type of security.
+Fixed income securities[edit]
+Main article: Bond valuation
+The coupon rate (or nominal rate) on a fixed income security is the interest that the issuer agrees to pay to the security holder each year, expressed as a percentage of the security's principal amount (par value).
+The current yield is the ratio of the annual interest (coupon) payment and the bond's market price.
+The yield to maturity is an estimate of the total rate of return anticipated to be earned by an investor who buys a bond at a given market price, holds it to maturity, and receives all interest payments and the payment of par value on schedule. Unlike current yield, it takes into account the payment of principal to the bondholder when the bond matures.
+For bonds with embedded call or put options:
+yield to call uses the same methodology as the yield to maturity, but assumes that the issuer calls the bond at the first opportunity instead of allowing it to be held until maturity;
+yield to put assumes that the bondholder  sells the bond back to the issuer at the first opportunity; and
+yield to worst is the lowest of the yield to all possible call dates, yield to all possible put dates and yield to maturity.
+Par yield assumes that the security's market price is equal to par value (also known as face value or nominal value). It is the metric used in the U.S. Treasury's daily official "Treasury Par Yield Curve Rates".
+Preferred shares[edit]
+The dividend rate is the total amount of dividends paid in a year, divided by the principal value of the preferred share. The current yield is those same payments divided by the preferred share's market price. If the preferred share has a maturity or call provision (which is not always the case), yield to maturity and yield to call can be calculated.
+Common shares[edit]
+The current dividend yield is the annualized cash dividend (in dollars, RMB, Yen, etc.) divided by the current market price of one share. Most web sites and reports are updated with the expected future year's payments, not the past year's.
+REITs, royalty trusts, income trusts, annuities[edit]
+Distribution yields from REITs, royalty trusts, income trusts and annuities often include return of capital, cash that exceeds the income earned.[citation needed]
+Real estate and property[edit]
+Several different yields are used as measures of a real estate investment, including initial, equivalent and reversionary yields.
+Initial yield is the annualised rents of a property expressed as a percentage of the property value.
+E.g.
+£100,000 passing rent per annum
+£1,850,000 valuation
+100000/1850000 = 0.054 or 5.4%
+Reversionary yield is the anticipated yield to which the initial yield will rise (or fall) once the rent reaches the ERV.
+E.g.
+£150,000 ERV per annum
+£1,850,000 valuation
+150000/1850000 = 0.081 or 8.1%
+Equivalent yield lies somewhere in between the initial yield and reversionary yield, it encapsulates the DCF of the property with rents rising (or falling) from the current annualised rent to the underlying estimated rental value (ERV) less costs that are incurred along the way. The discount rate used to calculate the net present value (NPV) of the DCF to equal zero is the equivalent yield, or the IRR.
+The calculation not only takes into account all costs, but other assumptions including rent reviews and void periods. A trial and error method can be used to identify the equivalent yield of a DCF, or if using Excel, the goal seek function can be used.[citation needed]
+Factors affecting the yield[edit]
+All financial instruments compete with each other in the financial markets. Investor perceptions of risk influence the yield they require to justify investment in a particular security. Higher yields allow owners to recoup their investments sooner, and so lessen risk. All other things being equal, the weaker the credit rating of the issuer, the higher the yield must be. This reflects the tendency for investors to require compensation for the additional risk that the issuer may default on its obligations to pay interest and repay the principal at par value.
+Yield levels vary with expectations of inflation and the general outlook for the economy (the business cycle). Fears of high inflation in the future mean that investors ask for a higher yield today to protect their purchasing power.
+The yield on a fixed income security is inversely related to financial market interest rates. If market rates rise, for example due to inflation or a change in the economy, the price of a bond or note falls, driving its yield higher to maintain parity with market rates. Conversely, if market rates decline, then the price of the bond should increase, driving its yield lower, all else being equal.
+Under normal market conditions, long-term fixed income securities (for example, a 10-year bond) have higher yields than short-term securities (e.g., a 2-year bond). This reflects the fact that long-term securities are more exposed to the uncertainties of what could happen in the future—especially changes in market rates of interest. Therefore, longer maturity securities have more potential price volatility. The relationship between yield and maturity is described by the yield curve.
+Special cases[edit]
+Coupon payments from floating rate bonds and notes and Treasury Inflation Protected Securities are reset periodically based on a specified benchmark. It is not possible to accurately calculate the future stream of coupon payments from these securities, so yield to maturity and internal rates of return cannot be calculated. Other metrics must be used.
+See also[edit]
+Ecological yield
+Yield curve
+30-day yield
+7-day SEC yield
+Nominal yield
+Bond (finance)
+Roll yield
+References[edit]
+^ Fabozzi, Frank J. (1996). Bond Markets, Analysis and Strategies. Upper Saddle River, New Jersey.: Prentice-Hall, Inc. p. 3. ISBN 0-13-339151-5.
+^ Thau, Annette (2001). The Bond Book (Revised ed.). New York: McGraw-Hill. p. 3. ISBN 0-07-135862-5.
+^ Melicher and Welshans (1988). Finance: Introduction to Markets, Institutions and Management (7 ed.). Cincinnati, Ohiio: South-Western Publishing Company. p. 481. ISBN 0-538-06160-X.
+^ Martinelli, Lionel, Priaulet, Phillippe and Priaulet, Stephane (2003). Fixed Income Securities: Valuation, Risk Management and Portfolio Strategies. Chichester, England: John Wiley & Sons. p. 49. ISBN 0-470-85277-1.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+^ Thau, Annette (2001). The Bond Book (Revised ed.). New York: McGraw-Hill. pp. 102–104. ISBN 0-07-135862-5.
+^ Thau op cit p. 56.
+^ Fabozzi op cit p. 40-41.
+^ Martinelli, Lionel; Priaulet, Philippe; Priaulet, Stephane (2003). Fixed-Income Securities: Valuation, Risk Management, and Portfolio Strategies. Chichester, England: John Wiley & Sons Ltd. p. 54. ISBN 0-470-85277-1.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+^ Girola, James. "The Yield Curve for Nominal Treasury Issues" (PDF). U.S. Department of the Treasury. Retrieved 14 January 2022.
+^ Melicher and Welshans op cit p. 244.
+^ Nikbakht, Ehsan and Groppelli, A.A. Finance (sixth ed.). Haupaggue, New York: Barron's Educational Series, Inc. p. 267. ISBN 978-0-7641-4759-3.{{cite book}}:  CS1 maint: multiple names: authors list (link)
+^ Initialyield.com (May 2012). "Glossary, Initial Yield". Initial Yield. Retrieved 2012-05-01.
+^ Initialyield.com (May 2012). "Glossary, Reversionary Yield". Reversionary Yield. Retrieved 2012-05-01.
+^ Initialyield.com (May 2012). "Glossary, Equivalent Yield". Equivalent Yield. Retrieved 2012-05-01.
+^ Thau op cit p. 40.
+^ Melicher and Welshans op cit p. 481.
+^ Thau op cit p. 31.
+^ Thau op cit p. 102-104, 205.
+^ Fabozzi, Frank J. (1997). The Handbook of Fixed Income Securities. New York: McGraw-Hill. pp. 67, 260–262. ISBN 0-7863-1095-2.
+^ "TIPS". The Wall Street Journal - Markets. Retrieved 24 April 2022.
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Authority control databases: National
+Germany
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Yield_(finance)&oldid=1168520968"
+Categories: Valuation (finance)Yield (finance)Financial economicsHidden categories: CS1 maint: multiple names: authors listArticles with short descriptionShort description matches WikidataAll articles with unsourced statementsArticles with unsourced statements from April 2022Articles with GND identifiers
+This page was last edited on 3 August 2023, at 07:28 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

@@ -1,0 +1,227 @@
+Shares outstanding - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Finding the number of shares outstanding
+Toggle Finding the number of shares outstanding subsection
+1.1Public traded companies' investor relations
+1.2Authorized information service
+1.3Local stock exchanges
+2See also
+3References
+4External links
+Toggle the table of contents
+Shares outstanding
+6 languages
+CatalàFrançaisעבריתSuomiSvenska中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+All shares held and authorized by a public company's investors
+Shares outstanding are all the shares of a corporation that have been authorized, issued and purchased by investors and are held by them. They are distinguished from treasury shares, which are shares held by the corporation itself, thus representing no exercisable rights. Shares outstanding and treasury shares together amount to the number of issued shares.
+Shares outstanding can be calculated as either basic or fully diluted. The basic count is the current number of shares. Dividend distributions and voting in the general meeting of shareholders are calculated according to this number. The fully diluted shares outstanding count, on the other hand, includes diluting securities, such as warrants, capital notes or convertibles. If the company has any diluting securities, this indicates the potential future increased number of shares outstanding.
+Finding the number of shares outstanding[edit]
+The number of outstanding shares may change due to changes in the number of issued shares, as well as the change in treasury shares. Both can occur at any time of the year. There are several useful public sources to find the number of shares outstanding of a given corporation.
+Public traded companies' investor relations[edit]
+The financial reporting obligation of the publicly traded company also ensures the publication of issued and outstanding shares. The reports are usually available in the investor relations section of the company's website. Web directories are supporting direct access to company websites. Publicly traded companies bundle the reports in the investor relations section, e.g. Deutsche Bank, Eni S.p.a., AB InBev, EDP - Energias do Brasil SA or Accor SA.
+Authorized information service[edit]
+In many countries, there is an information service authorized or provided by the local financial authority which gives access to companies' financial reporting. In the United States, the number of shares outstanding may be obtained from quarterly filings with the U.S. Securities and Exchange Commission. Quarterly filings are accessible using the US EDGAR. In Germany, those figures are available using the German company register, the central platform for storage of company data. In the Netherlands, the Netherlands Authority for the Financial Markets (AFM) provides on its website a register of issued capital. In Italy, the Commissione Nazionale per le Società e la Borsa (CONSOB) provides on its website a register of issuers with latest total shares.
+Local stock exchanges[edit]
+Since outstanding shares are an essential detail of publicly traded companies the number can be found on the local stock exchange websites. Beyond stock charts and listed prices, they also provide the companies' number of outstanding shares. Examples include the Brazilian BM&FBOVESPA, the Swiss SIX, the Borsa Italiana and the Tel Aviv Stock Exchange (where shares outstanding are termed "Capital Listed for Trading").
+See also[edit]
+Share capital
+Public float
+References[edit]
+^ "Yahoo Finance - Business Finance, Stock Market, Quotes, News". finance.yahoo.com.
+^ "Investor Relations – Deutsche Bank". www.db.com.
+^ "Investors and ENI stakeholders - Eni". www.eni.com.
+^ "Anheuser Busch InBev SA investor relations".
+^ "EDP - Energias do Brasil SA investor relations".
+^ "Worldwide leader in hospitality - AccorHotels Group". www.accor.com.
+^ "SEC.gov - Filings & Forms". www.sec.gov.
+^ "Unternehmensregister". www.unternehmensregister.de.
+^ "Homepage van toezichthouder Autoriteit Financiële Markten (AFM)". www.afm.nl.
+^ "Italian CONSOB".
+^ "Brasilian BM&FBOVESPA".
+^ "SIX Swiss Exchange". www.six-swiss-exchange.com.
+^ "Quotazioni, Azioni, Obbligazioni, ETF, Fondi, Indici - Borsa Italiana". www.borsaitaliana.it.
+^ "Tel Aviv Stock Exchange TASE Site – Securities".
+External links[edit]
+Investopedia: Outstanding Shares
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Shares_outstanding&oldid=1133525563"
+Categories: Corporate financeFundamental analysisHidden categories: Articles with short descriptionShort description matches Wikidata
+This page was last edited on 14 January 2023, at 06:40 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

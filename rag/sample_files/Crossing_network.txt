@@ -1,0 +1,65 @@
+Crossing network - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1References
+Toggle the table of contents
+Crossing network
+4 languages
+العربيةDeutschРусский吴语
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+A crossing network is an alternative trading system (ATS) that matches buy and sell orders electronically for execution without first routing the order to an exchange or other public displayed market such as an electronic communication network (ECN).  Such crossing networks are a type of dark pool that employ computerized systems to match buyers and sellers of large blocks of shares without using a stock exchange. The advantage of the crossing network is the ability to execute a large block order without impacting the public quote and avoidance of market impact (i.e., the movements in a stock's price due to an investor's indication of interest).
+These networks are often owned and operated by broker-dealers to match buyers and sellers of large blocks of shares. Depending on the particular broker-dealer's system and the type of securities traded (e.g., exchange-listed or OTC securities), these crosses could occur at various times during the day, or after the close of trading, and could be priced at the last sale price or some other objective price, such as the midpoint between the bid and offer or the volume weighted average price (VWAP).
+Crossing networks tend to be used for highly liquid stocks and offer money managers the advantages of very low commissions, anonymity for the buying or selling, and avoidance of market impact. As of 2012[update], examples of crossing networks included Liquidnet, Pipeline Trading Systems, ITG POSIT and Goldman Sachs' SIGMA X.
+References[edit]
+^ Banks, E. (2014). Dark Pool Structure. In: Dark Pools. Global Financial Markets series. Palgrave Macmillan, London. doi:10.1057/9781137449573_3.
+^ a b Lemke; Lins (2013). "§2:26". Soft Dollars and Other Trading Activities. Thomson West.
+^ "SEC Charges ITG With Misleading Dark Pool Subscribers". US Securities and Exchange commission. November 7, 2018.
+This finance-related article is a stub. You can help Wikipedia by expanding it.vte
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Crossing_network&oldid=1159246015"
+Categories: Financial marketsFinance stubsHidden categories: Articles containing potentially dated statements from 2012All articles containing potentially dated statementsAll stub articles
+This page was last edited on 9 June 2023, at 05:22 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

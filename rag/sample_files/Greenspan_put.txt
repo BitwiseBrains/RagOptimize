@@ -1,0 +1,480 @@
+Greenspan put - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Overview
+Toggle Overview subsection
+1.1Naming
+1.2Tools
+1.3Use
+1.4Side-effects
+2Variations
+Toggle Variations subsection
+2.1Bernanke put
+2.2Yellen put
+2.3Powell put
+2.3.1Everything Bubble in 2020–21
+2.3.2Fed call in 2022
+3See also
+4References
+5Further reading
+6External links
+Toggle the table of contents
+Greenspan put
+1 language
+Français
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+Monetary policy tool
+Alan Greenspan in 2005
+The Greenspan put was a monetary policy response to financial crises that Alan Greenspan, former chair of the Federal Reserve, exercised beginning with the crash of 1987.  Successful in addressing various crises, it became controversial as it led to periods of extreme speculation led by Wall Street investment banks overusing the put's repurchase agreements (or indirect quantitative easing) and creating successive asset price bubbles.  The banks so overused Greenspan's tools that their compromised solvency in the global financial crisis of 2007–2008 required Fed chair Ben Bernanke to use direct quantitative easing (the Bernanke put). The term Yellen put was used to refer to Fed chair Janet Yellen's policy of perpetual monetary looseness (i.e. low interest rates and continual quantitative easing).
+In Q4 2019, Fed chair Jerome Powell recreated the Greenspan put by providing repurchase agreements to Wall Street investment banks as a way to boost falling asset prices; in 2020, to combat the financial effects of the COVID-19 pandemic, Powell re-introduced the Bernanke put with direct quantitative easing to boost asset prices. In November 2020, Bloomberg noted the Powell put was stronger than both the Greenspan put or the Bernanke put, while Time noted the scale of Powell's monetary intervention in 2020 and the tolerance of multiple asset bubbles as a side-effect of such intervention, "is changing the Fed forever."
+While the specific individual tools have varied between each genre of "put", collectively they are often referred to as the Fed put (cf. Central bank put). In late 2014, concern grew about the emergence of a so-called everything bubble due to overuse of the Fed put and perceived simultaneous pricing bubbles in most major US asset classes. By late 2020, under Powell's chair the perceived everything bubble had reached an extreme level due to unprecedented monetary looseness by the Fed, which simultaneously sent most major US asset classes (i.e. equities, bonds, housing, and commodities) to prior peaks of historical extreme valuation (and beyond in several cases), and created a highly speculative market. By early 2022, in the face of rising inflation, Powell was forced to "prick the everything bubble", and his reversal of the Fed put was termed the Fed call (i.e. a call option being the opposite of a put option).
+Overview[edit]
+Naming[edit]
+The term "Greenspan put" is a play on the term put option, which is a financial instrument that creates a contractual obligation giving its holder the right to sell an asset at a particular price to a counterparty, regardless of the prevailing market price of the asset, thus providing a measure of insurance to the holder of the put against falls in the price of the asset.
+While Greenspan did not offer such a contractual obligation, under his chair, the Federal Reserve taught markets that when a crisis arose and stock markets fell, the Fed would engage in a series of monetary tools, mostly via Wall Street investment banks, that would cause the stock market falls to reverse. The actions were also referred to as "backstopping" markets.
+Tools[edit]
+The main tools used by the "Greenspan put" were:
+Fed purchase of Treasury bonds in large volumes thus lowering the yield and giving Wall Street banks profits on their Treasury books that can be invested in other assets; and
+Lowering the federal funds rate, even to the point of making the real yield negative, which would enable the Wall Street investment banks to borrow capital cheaply from the Fed; and
+Fed providing Wall Street banks with new loans (called short-term "repurchase agreements," but which could be rolled over indefinitely), to buy the distressed assets (i.e. indirect quantitative easing).
+Repurchase agreements (also called, "repos") are a form of indirect quantitative easing, whereby the Fed prints the new money, but unlike direct quantitative easing, the Fed does not buy the assets for its own balance sheet, but instead lends the new money to investment banks who themselves purchase the assets.  Repos allow the investment banks to make both capital gains on the assets purchased (to the extent the banks can sell the assets to the private markets at higher prices), but also the economic carry, being the annual dividend or coupon from the asset, less the interest cost of the repo.
+When the balance sheets of investment banks became very stressed during the global financial crisis, due to excessive use of repos, Fed had to by-pass the banks and employ direct quantitative easing; the "Bernanke put" and the "Yellen put" used mostly direct quantitative easing, whereas the "Powell put" used both direct and indirect forms.
+Use[edit]
+The Fed first engaged in this activity after the 1987 stock market crash, which prompted traders to coin the term Greenspan put.  The Fed also acted to avert further market declines associated with the savings and loan crisis, the Gulf War and the Mexican crisis. However, the collapse of Long Term Capital Management in 1998, which coincided with the 1997 Asian Financial Crisis, led to such a dramatic expansion of the Greenspan Put that it created the dot-com bubble.  After the collapse of the Internet bubble, Greenspan amended the tools of the Greenspan put to focus on buying mortgage-backed securities, as a method of more directly stimulating house price inflation, until that market collapsed in the Global Financial Crisis and Greenspan retired.
+Side-effects[edit]
+In contrast to the benefits of asset price inflation, a number of adverse side-effects have been identified from the "Greenspan put" (and the other "Fed puts"), including:
+Moral hazard. The expectation of a Fed put to arrest market declines created moral hazard, and was considered a driver of the high levels of speculation that created the 1998–2000 internet bubble.  At the start of the 2008 global financial crisis, Wall Street banks remained relaxed in the expectation the Greenspan put would be activated.  The term "don't fight the Fed" was associated with the "Greenspan Put," implying don't sell or short assets when the Fed is actively pushing asset prices higher.  Economist John H. Makin called it "free insurance for aggressive risk-taking."
+"You can't lose in that market," he said, adding "it's like a slot machine" that always pays out. "I've not seen this in my career."— CNBC host Jim Cramer (November 2020), after a prolonged period of the "Powell put."
+Wall Street profits. The Greenspan put created substantial profits for Wall Street investment banks who borrowed large amounts of capital cheaply from the Fed to buy distressed assets during crises. Wall Street learned to use "repurchase agreements" to push non-distressed asset prices even higher, as the positive price action (coupled with more positive analyst notes) that resulted from their "repurchase agreement"-funded buying, stimulated investor interest, who bought the assets off Wall Street at higher prices.  Wall Street came to call Greenspan, The Maestro.  In 2009, the CEO of Goldman Sachs, Lloyd Blankfein, notably called using the tools of the Fed put as "doing God's work."
+Wealth inequality. Various economists attribute the Greenspan put (and the subsequent Bernanke and Powell puts, see below), to the historic widening of wealth inequality in the United States, which bottomed in the 1980s and then rose continually to reach levels not seen since the late 1920s, by late 2020;  this is disputed by the Fed.
+"Yeah, absolutely. You know, I think that's one of the things that's actually really not in contention, right? Like, I don't think there's really anyone on the other side of that issue saying: "No, no, no. The Fed's policies have not driven or increased wealth and income inequality." Except for maybe Fed chair Jerome Powell, himself." — Dion Rabouin of the Wall Street Journal on a June 2022 Frontline (PBS) documentary.
+Housing bubbles.  With each successive reduction in interest rates as part of the "Greenspan put," US house prices responded by moving immediately higher, due to cheaper mortgages.  Eventually, stimulating a wealth effect through higher house prices became an important component of the "Greenspan put" until it led to the global financial crisis in 2008.
+Inflation. Academic research has linked increases in asset prices to consumer inflation. The unprecedented use by Powell of the Fed Put tools during 2020–2021 to combat the financial effects of the coronavirus pandemic, led to exceptional amounts of inflation, forcing Powell to turn the Fed Put into a Fed call (i.e. using the tools to reverse the effects of the Fed put).  In his 2022 book The Price of Time: The Real Story of Interest, historian Edward Chancellor showed that overuse of "central banking tools such as the Fed put" had led to an "everything bubble" with an inflation "hangover".
+Escalating economic crises.  Steven Pearlstein of The Washington Post described it as: "In essence, the Fed has adopted a strategy that works like a one-way ratchet, providing a floor for stock and bond prices but never a ceiling. The result in part has been a series of financial crises, each requiring a bigger bailout than the last. But when the storm finally passes and it's time to begin sopping up all that emergency credit, the Fed inevitably caves in to pressure from Wall Street, the White House, business leaders and unions and conjures up some rationalization for keeping the party going."
+Political interference in markets.  The ability of the Greenspan put to make stock markets rise led to concerns of political interference in markets and asset pricing.  By 2020, economist Mohamed A. El-Erian noted that: "Donald Trump believed and repeatedly stated publicly that the stock market validated his policies as president. The more the market rose, the greater the affirmation of his "Make America Great Again" agenda. The president's approach was music to investors' ears. They saw it as supporting, both directly and indirectly, the notion that policymakers needed asset prices to head ever higher. It reinforced the longstanding belief of a "Fed put" — shorthand for the view that the Fed will always step in to rescue the markets — to such an extent that investor conditioning changed markedly."
+Well, let me just say that the number, I think, that is staggering is that we have more people unemployed and on unemployment benefits than any time in our country's history.  We know that the Fed is shoring up the markets so that the stock market can do well.  I don't complain about that, I want the market to do well.— Nancy Pelosi (October 2020), one of the richest members of Congress, commenting on why US stock markets were reaching new highs as US unemployment rose sharply.
+Variations[edit]
+Bernanke put[edit]
+See also: Quantitative easing § US QE1, QE2 and QE3
+During the 2008–2010 global financial crisis, the term "Bernanke put" was invoked to refer to the series of major monetary actions of the then Chair of the Federal Reserve, Ben Bernanke.  Bernanke's actions were similar to the "Greenspan put" (e.g. reduce interest rates, offer repos to banks), with the explicit addition of direct quantitative easing (that included both Treasury bonds and mortgage-backed securities) and at a scale that was unprecedented in the history of the Fed.
+Bernanke attempted to scale back the level of monetary stimulus in June 2010 by bringing QE1 to a close, however, global markets collapsed again and Bernanke was forced to introduce a second program in November 2010 called QE2. He was also forced to execute a subsequent third longer-term program in September 2012 called QE3. The markets had become so over-leveraged from decades of the "Greenspan put," that they did not have the capacity to fund US government spending without asset prices collapsing (i.e. investment banks had to sell other assets to buy the new US Treasury bonds).
+In 2018, Fed Chair Jerome Powell attempted to roll-back part of the "Bernanke put" for the first time and reduce the size of the Fed's balance in a process called quantitative tightening, with a plan to go from US$4.5 trillion to US$2.5–3 trillion within 4 years, however, the tightening caused global markets to collapse again and Powell was forced to abandon his plan.
+Yellen put[edit]
+The term "Yellen put" refers to the Fed Chair Janet Yellen, but appears less frequently because Yellen only faced one material market correction during her tenure, in Q1 2016, where she directly invoked the monetary tools.  The term was also invoked to refer to instances where Yellen sought to maintain high asset prices and market confidence by communicating a desire to maintain a continual loose monetary policy (i.e. very low interest rates and continued quantitative easing).  Yellen's continual implied put (or perpetual monetary looseness), saw the term Everything Bubble emerge.
+During 2015, Bloomberg wrote of Fed monetary policy, "The danger isn't that we're in a unicorn bubble. The danger isn't even that we're in a tech bubble. The danger is that we're in an Everything Bubble – that valuations across the board are simply too high." The New York Times wrote that a global "everything boom" had led to a global "everything bubble," which was driven by: "the world's major central banks have been on a six-year campaign of holding down interest rates and creating more money from thin air to try to stimulate stronger growth in the wake of the financial crisis." As Yellen's term as fed chair came to an end in February 2018, financial writers noticed that several asset classes were simultaneously approaching levels of valuations not seen outside of financial bubbles.
+Powell put[edit]
+See also: Quantitative easing § US QE4
+When Jerome Powell was appointed fed chair in 2018, his initial decision to unwind the Yellen put by raising interest rates and commencing quantitative tightening led to concerns that there might not be a "Powell put."  Powell had to abandon this unwind when markets collapsed in Q4 2018 and his reversal was seen as a first sign of the Powell Put.  As markets waned in mid-2019, Powell recreated the Greenspan Put by providing large-scale "repurchase agreements" to Wall Street investment banks as a way to boost falling asset prices and a fear that the Everything Bubble was about to deflate;  this was seen as confirmation that a "Powell Put" would be invoked to artificially sustain high asset prices. By the end of 2019, US stock valuations reached valuations not seen since 1999 and so extreme were the valuations of many large US asset classes that Powell's Put was accused of re-creating the Everything Bubble. In 2020, to combat the financial effects of the COVID-19 pandemic and the bursting of the Everything Bubble  Powell added the tools of the Bernanke put with significant amounts of direct quantitative easing to boost falling prices, further underlying the Powell put.
+So significant was the Powell put that in June 2020, The Washington Post reported that "The Fed is addicted to propping up the markets, even without a need" and further elaborating with:
+Testifying before the Senate Banking Committee, Fed Chair Jerome H. Powell was pressed by Sen. Patrick J. Toomey (R-Pa.) who asked why the Fed was continuing to intervene in credit markets that are working just fine. "If market functioning continues to improve, then we're happy to slow or even stop the purchases," Powell replied, never mentioning the possibility of selling off the bonds already bought. What Powell knows better than anyone is that the moment the Fed makes any such announcement, it will trigger a sharp sell-off by investors who have become addicted to monetary stimulus. And at this point, with so much other economic uncertainty, the Fed seems to feel it needs the support of markets as much as the markets need the Fed.— Steven Pearlstein, The Washington Post (June 2020)
+In August 2020, Bloomberg called Powell's policy response to the COVID-19 pandemic "exuberantly asymmetric" (echoing Alan Greenspan's "irrational exuberance" quote from 1996) and profiled research showing that the Fed's balance sheet was now strongly correlated to being used to rescue falling share prices or boosting flagging share prices, but that it was rarely used to control extreme stock price valuations (as the US market was then experiencing in August 2020).  In November 2020, Bloomberg noted the "Powell put" was now more extreme than the Greenspan put or Bernanke put. Time noted that the scale of Powell's monetary intervention in 2020 and the tolerance of multiple asset bubbles as a side-effect of such intervention "is changing the Fed forever."
+In January 2021, the former Deputy Governor of the Bank of England Sir Paul Tucker called Powell's actions a "supercharged version of the Fed put" and noted that it was being applied to all assets simultaneously: "It's no longer a Greenspan Put or a Bernanke Put or a Yellen Put. It's now the Fed Put and it's everything."
+Everything Bubble in 2020–21[edit]
+In November 2020, CNBC host Jim Cramer said the market created by the Fed in late 2020 was "the most speculative" he had ever seen.
+By December 2020, Powell's monetary policy, measured by the Goldman Sachs US Financial Conditions Index (GSFCI), was the loosest in the history of the GSFCI and had created simultaneous asset bubbles across most of the major asset classes in the United States: For example, in equities, in housing and in bonds.  Niche assets such as cryptocurrencies saw dramatic increases in price during 2020 and Powell won the 2020 Forbes Person of the Year in Crypto.
+In December 2020, Fed Chair Jerome Powell invoked the "Fed model" to justify high market valuations, saying: "If you look at P/Es they're historically high, but in a world where the risk-free rate is going to be low for a sustained period, the equity premium, which is really the reward you get for taking equity risk, would be what you'd look at." The creator of the Fed model, Dr. Yardeni, said the Fed's financial actions during the pandemic could form the greatest financial bubble in history.
+In December 2020, Bloomberg noted "Animal spirits are famously running wild across Wall Street, but crunch the numbers and this bull market is even crazier than it seems." CNBC host Jim Cramer said market created by the Fed in late 2020 was "the most speculative" he had ever seen. On 29 December 2020, the Australian Financial Review wrote that "The 'everything bubble' is back in business." On 7 January 2021, former IMF deputy director Desmond Lachman wrote that the Fed's loose monetary policy had created an "everything market bubble" in markets that matched that of 1929.
+On 24 January 2021, Bloomberg reported that "Pandemic-Era Central Banking Is Creating Bubbles Everywhere" and called it the "Everything Rally," noting that other major central bankers including Haruhiko Kuroda at the BOJ, had followed Powell's strategy.  In contrast, the Bank of China started withdrawing liquidity in the first quarter of 2021.
+High up on his list and sooner rather than later, will be dealing with the consequences of the biggest financial bubble in U.S. history. Why the biggest? Because it encompasses not just stocks but pretty much every other financial asset too. And for that, you may thank the Federal Reserve.— Richard Cookson, Bloomberg (4 February 2021)
+Fed call in 2022[edit]
+By early 2022, rising inflation forced Powell, and latterly other central banks, to significantly tighten financial conditions including raising interest rates and quantitative tightening (the opposite of quantitative easing), which led to a synchronized fall across most asset prices (i.e. the opposite effect of the Everything Bubble).  The Economist noted that the "Fed put" had now become a "Fed call" (i.e. a call option being the opposite to a put option).  By June 2022, the Wall Street Journal wrote that the Fed had "pricked the Everything Bubble" by "turning the Fed put into a Fed call".
+By June 2022, the US equity market registered a 20 percent fall from its 2021 high, a situation that historically had led to the "Fed put" being invoked to reverse the correction, however, the Fed instead chose to tighten markets even further by raising rates and increasing quantitative tightening. Financial journalist Philip Coggan likened the market's faith in the "Greenspan put" to the Tinkerbell phenomenon of J. M. Barrie's play, Peter Pan, saying "Investors used to believe central banks would rescue them — now they worry the banks might bury them". MoneyWeek declared "The Greenspan put is dead".
+In July 2022, the former governor of the Reserve Bank of New Zealand, Graeme Wheeler, co-wrote a paper attributing the post-COVID surge in inflation to the overuse of central banking tools and the Fed put toolset in particular.  A few days after the publication of Wheeler's paper, an independent investigation was launched into the role of the Reserve Bank of Australia in the post-COVID inflation surge experienced in Australia.  Financial historian Edward Chancellor said "central banks' unsustainable policies have created an "everything bubble", leaving the global economy with an inflation "hangover".
+See also[edit]
+Money portal
+Austrian Business Cycle Theory
+Credit cycle
+Criticism of the Federal Reserve
+Liquidity trap
+Privatizing profits and socializing losses
+Speculative bubble
+Too big to fail
+Zero interest-rate policy (ZIRP)
+References[edit]
+^ a b c d e f g h i j k l m Fleckenstein, William; Sheehan, Frederick (16 February 2008). Greenspan's Bubbles: The Age of Ignorance at the Federal Reserve. McGraw-Hill Education. ISBN 978-0071591584.
+^ a b c Duy, Tim (13 February 2018). "Powell's Fed Isn't About to End the 'Greenspan Put'". Bloomberg News. Retrieved 22 November 2020.
+^ a b c d e f g Stiglitz, Joseph E. (2010). Freefall: America, Free Markets, and the Sinking of the World Economy. New York and London: W. W. Norton & Company. p. 135. ISBN 9780393075960.
+^ a b c d e f g h i Miller, Marcus; Weller, Paul; Zhang, Lei (2002). "Moral Hazard and the US Stock Market: Analysing the 'Greenspan Put'" (PDF). The Economic Journal. 112 (478). Oxford University Press: 171–186. doi:10.1111/1468-0297.00029. JSTOR 798366. S2CID 197763183.
+^ a b c d e Petrou, Karen (6 November 2019). "Repo ructions highlight failure of post-crisis policymaking". Financial Times. Retrieved 13 November 2020. The old 'Greenspan put' is now a Powell promise: fear not, the Fed is there for you
+^ a b c d e Brancaccio, Emiliano; Fontana, Giuseppe (2011). "From Maestro to Villain: A Critical Assessment of the 'Greenspan Put" as the main cause of the global crisis". History of Economic Ideas. 19 (2). Accademia Editoriale: 131–146. JSTOR 23723542.
+^ a b c Summers, Graham (October 2017). The Everything Bubble: The Endgame For Central Bank Policy. CreateSpace. ISBN 978-1974634064.
+^ a b c d Leonard, Christopher (22 June 2020). "How Jay Powell's Coronavirus Response Is Changing the Fed Forever". Time. Retrieved 12 November 2020.
+^ a b c Authers, John (4 August 2020). "The Fed's Stocks Policy Is Exuberantly Asymmetric". Bloomberg News. Retrieved 18 November 2020.
+^ Hulbert, Mark (16 November 2020). "Yes, the 'Fed Put' Really Does Exist. That Could Be Bad News for Bulls". Barron's. Retrieved 25 November 2020.
+^ a b Irwin, Neil (15 July 2014). "Janet Yellen on the Everything Bubble". The New York Times. Retrieved 27 November 2020.
+^ a b Miller, Rich (14 December 2020). "U.S. Financial Conditions Easiest on Record, Goldman Sachs Says". Bloomberg News. Retrieved 25 December 2020.
+^ a b Guy, Robert (29 December 2020). "The 'everything bubble' is back in business". The Australian Financial Review. Retrieved 28 December 2020.
+^ a b Howell, Mark (16 January 2020). "The Federal Reserve is the cause of the bubble in everything". Financial Times. Retrieved 9 November 2020.
+^ a b Lachman, Desmond (19 May 2020). "The Federal Reserve's everything bubble". The Hill. Retrieved 9 November 2020.
+^ a b c Lachman, Desmond (7 January 2021). "Georgia and the everything market bubble". The Hill. Retrieved 7 January 2021.
+^ a b c d Belvedere, Matthew (24 November 2020). "Cramer calls this stock market environment 'the most speculative' he's ever seen". CNBC. Retrieved 25 November 2020.
+^ a b "A Speculative Frenzy Is Sweeping Wall Street and World Markets". Bloomberg News. 19 December 2020. Retrieved 28 December 2020.
+^ a b Phillips, Matt (26 December 2020). "Market Edges Toward Euphoria, Despite Pandemic's Toll". The New York Times. Retrieved 3 January 2021.
+^ a b Mackintosh, James (14 June 2022). "The Fed Pricked the Everything Bubble". Wall Street Journal. Retrieved 4 August 2022.
+^ a b Swint, Brian (6 May 2022). "The Famous Fed Put Is Now a Fed Call, and the Bad News Is Piling Up". Barron's. Retrieved 4 August 2022.
+^ a b Buttonwood (21 July 2022). "The Fed put morphs into a Fed call". The Economist. Retrieved 4 August 2022.
+^ a b Henderson, Neil (30 June 2005). "Backstopping the Economy Too Well?". The Washington Post. Retrieved 30 November 2020.
+^ Dahiya, Sandeep; Kamrad, Bardia; Potì, Valerio; Siddique, Akhtar R. (2019). "The Greenspan Put". SSRN. SSRN 2993326.
+^ a b Madrick, Jeff (16 June 2011). "How Alan Greenspan Helped Wreck the Economy". Rolling Stone. Retrieved 26 November 2020.
+^ Ben S. Bernanke (May 13, 2008). "Liquidity Provision by the Federal Reserve". Archived from the original on 2020-04-16.
+^ Stephan Sauer (August 2007). "Liquidity Risk and Monetary Policy" (PDF). University of Munich. Archived (PDF) from the original on 2018-07-22.
+^ Editorial (11 August 2011). "Don't you miss the Greenspan put?". The Economist. Retrieved 29 November 2020.
+^ Fell, Charlie (20 November 2009). "Further asset bubbles appear inevitable". Irish Times. Retrieved 28 November 2020.
+^ Gold, Howard (17 August 2020). "Opinion: The Federal Reserve's policies have drastically increased inequality". MarketWatch. Retrieved 22 November 2020.
+^ Nageswaran, V. Anantha (28 January 2019). "Powell reinforces the Yellen-Bernanke-Greenspan put". Mint. Retrieved 22 November 2020.
+^ Klien, Matthew (13 May 2015). "Fed says US wealth inequality hasn't increased quite as much as you think". Financial Times. Retrieved 22 November 2020.
+^ a b Aronson-Rath, Raney (June 2022). "The Federal Reserve's Big Experiment". Frontline (PBS). Retrieved 30 July 2022.
+^ a b Buttonwood (21 July 2022). "The Fed put morphs into a Fed call". The Economist. Retrieved 30 July 2022.
+^ Daniel, Will (10 May 2022). "The stock market is freaking out because of the end of free money. It all has to do with something called 'the Fed put'". Fortune. Retrieved 30 July 2022.
+^ Chancellor, Edward (July 2022). The Price of Time: The Real Story of Interest. Allen Lane. ISBN 978-0241569160.
+^ a b Daniel, Will (29 May 2022). "One of the greatest financial historians alive says central bankers have been incompetent for decades and inflation is our 'big hangover'". Fortune. Retrieved 5 August 2022.
+^ a b c Steven Pearlstein (17 June 2020). "The Fed is addicted to propping up the markets, even without a need". The Washington Post. Retrieved 23 November 2020.
+^ Mohamed A. El-Erian (23 November 2020). "Joe Biden needs to break the market's codependency with White House". Financial Times. Retrieved 24 November 2020.
+^ "Transcript of Pelosi Interview on Bloomberg News' Balance of Power with David Westin". Speaker.gov. 29 October 2020. Retrieved 26 November 2020.
+^ a b c Cassidy, John (13 June 2013). "The Bernanke Put: Can the Markets and the Economy Live Without It?". The New Yorker. Retrieved 26 November 2020.
+^ Casey, Michael (28 September 2010). "The Bernanke Put". The Wall Street Journal. Retrieved 26 November 2020.
+^ Tett, Gillian (1 March 2018). "Why Jay Powell's Fed taper is not causing tantrums". Financial Times. Retrieved 13 November 2020.
+^ Rennison, Joe (20 December 2020). "Investors raise alarm over Fed's shrinking balance sheet". Financial Times. Retrieved 9 November 2020.
+^ "The 'Yellen Put' Is Real". The Wall Street Journal. 9 February 2016. Retrieved 27 November 2020.
+^ Sri-Kumar, Komal (28 January 2016). "The 'Yellen put' is alive and well". Business Insider. Retrieved 27 November 2020.
+^ Pearlstien, Steve (17 October 2014). "Wall Street attempts to navigate the era of 'Yellen put'". The Washington Post. Retrieved 27 November 2020.
+^ Sri-Kumar, Komal (6 June 2017). "Labor Slack Shows Stocks Rely on the 'Yellen Put'". Bloomberg News. Retrieved 27 November 2020.
+^ DeFotis, Dimitra (13 July 2017). "Chair Yellen: Is Emerging Markets Rally Part of An 'Everything Bubble'?". Barron's. Retrieved 29 December 2020.
+^ Smith, Noah (5 July 2015). "There Is No Tech Bubble. Still, Be Worried". Bloomberg News. Retrieved 7 January 2021.
+^ Iwrin, Neil (14 July 2015). "Welcome to the Everything Boom, or Maybe the Everything Bubble". The New York Times. Retrieved 7 January 2021.
+^ Das, Satyajit (15 December 2018). "The Bubble's Losing Air. Get Ready for a Crisis". Bloomberg News. Retrieved 29 December 2020. The "everything bubble" is deflating.
+^ Duy, Tim (13 February 2018). "Powell's Fed Isn't About to End the 'Greenspan Put'". Bloomberg News. Retrieved 30 December 2020.
+^ Cox, Jeff (8 February 2019). "The fate of the market this year could be in the hands of the 'Powell Put'". CNBC. Retrieved 30 December 2020.
+^ Langlois, Shawn (10 August 2019). "Is the 'everything bubble' finally popping? This chart might have the answer". MarketWatch. Retrieved 9 January 2021.
+^ Ponczek, Sarah; Regan, Michael P. (2 September 2020). "Is the 'Powell Put' Enough to Counter Trump's Trade War?". Bloomberg News. Retrieved 30 December 2020.
+^ Tappe, Anneken (12 March 2020). "This is the burst of the 'everything bubble'". CNN News. Retrieved 30 November 2020.
+^ "Coronavirus and the bursting of the everything bubble". American Enterprise Institute. 22 April 2020. Retrieved 2 January 2021.
+^ Siegel, Rachel (13 September 2020). "The recession is testing the limits and shortfalls of the Federal Reserve's toolkit". The Washington Post. Retrieved 9 November 2020.
+^ Randall, David (11 September 2020). "Fed defends 'pedal to the metal' policy and is not fearful of asset bubbles ahead". Reuters. Retrieved 11 November 2020.
+^ Metrick, Andrew (6 January 2021). "Awaiting the Will to Ensure Financial Market Stability". Yale Insights. Retrieved 21 January 2021.
+^ Hulbert, Mark (30 October 2020). "Opinion: The stock market is overvalued, according to almost every measure dating to 1950". MarketWatch. Retrieved 26 November 2020.
+^ Brown, Arron (13 November 2020). "Home Prices Are In a Bubble. Full Stop". Bloomberg News. Retrieved 16 November 2020.
+^ Shedlock, Mish (14 November 2020). "The Housing Bubble is Even Bigger Than the Stock Market Bubble". Mish.com. Retrieved 26 November 2020.
+^ Segilson, Paula (9 November 2020). "U.S. Junk Bond Yields Hit Record Low as Vaccine Hope Fuels Rally". Bloomberg News. Retrieved 26 November 2020.
+^ del Castillo, Michael (26 December 2020). "Forbes Cryptocurrency Awards 2020: The $3 Trillion Bitcoin Marketing Campaign". Forbes. Retrieved 4 January 2021.
+^ Ponczek, Sarah; Wang, Lu (17 December 2020). "Soaring Stock Valuations No Big Deal to Powell Next to Bonds". Bloomberg News. Retrieved 18 December 2020.
+^ Sarkar, Kanishka (17 December 2020). "Powell busts out Fed model to defend high equity valuations". The Hindustan Times. Retrieved 18 December 2020.
+^ Winck, Ben (23 June 2020). "The Fed's unprecedented relief measures could form the greatest financial bubble in history says Ed Yardeni". Business Insider. Retrieved 16 December 2020.
+^ Curran, Enda; Anstey, Chris (24 January 2021). "Pandemic-Era Central Banking Is Creating Bubbles Everywhere". Bloomberg News. Retrieved 24 January 2021.
+^ Hale, Thomas; Lockett, Hudson (26 January 2021). "Chinese stocks fall as central bank adviser warns of asset bubble". Financial Times. Archived (PDF) from the original on 2021-02-08. Retrieved 26 January 2021.
+^ Cookson, Richard (4 February 2021). "Rising Inflation Will Force the Fed's Hand". Bloomberg News. Retrieved 4 February 2021.
+^ a b Goggan, Philip (9 July 2022). "Markets are losing faith in central banks". Financial Times. Retrieved 5 August 2022.
+^ Stepek, John (28 July 2022). "What the death of the "Greenspan put" means for investors". MoneyWeek. Retrieved 5 August 2022.
+^ Moss, Daniel (2 August 2022). "Blaming Inflation on Central Banks? We Enabled Them". Washington Post. Retrieved 5 August 2022.
+^ Rodriges, Sophia (5 August 2022). "Nervous central bankers are watching Australia closely". Financial Times. Retrieved 5 August 2022.
+Further reading[edit]
+Cieslak, Anna; Vissing-Jorgensen, Annette (March 2020). "The Economics of the Fed Put". National Bureau of Economic Research. SSRN 2951402. Working Paper No. w26894 {{cite journal}}: Cite journal requires |journal= (help)
+Brancaccio, Emiliano; Fontana, Giuseppe (2011). "From Maestro to Villian: A Critical Assessment of the 'Greenspan Put" as the main cause of the global crisis". History of Economic Ideas. 19 (2). Accademia Editoriale: 131–146. JSTOR 23723542.
+Fleckenstein, William; Sheehan, Frederick (16 February 2008). Greenspan's Bubbles: The Age of Ignorance at the Federal Reserve. McGraw-Hill Education. ISBN 978-0071591584.
+Miller, Marcus; Weller, Paul; Zhang, Lei (2002). "Moral Hazard and the US Stock Market: Analysing the 'Greenspan Put'". The Economic Journal. 112 (478). Oxford University Press: 171–186. doi:10.1111/1468-0297.00029. JSTOR 798366. S2CID 197763183.
+Dahiya, Sandeep; Kamrad, Bardia; Potì, Valerio; Siddique, Akhtar R. (January 2019). "The Greenspan Put". SSRN. SSRN 2993326.
+External links[edit]
+Scholia has a profile for Greenspan put (Q5604554).
+Greenspan Put, Investopedia.
+The Everything Bubble, Vanity Fair (October 2015)
+The Federal Reserve’s Big Experiment, FRONTLINE (Documentary on the Fed Put, June 2022)
+vteFederal Reserve System
+Chair
+Vice Chair
+Governors
+Federal Reserve Banks
+Banknotes
+Federal Reserve Note
+Federal Reserve Bank Note
+Reports
+Beige Book
+Federal Reserve Statistical Release
+Monetary Policy Report to the Congress
+Federal funds
+Discount window
+Bank rate
+Federal funds
+Federal funds rate
+Overnight rate
+Primary dealer
+History(Antecedents)Formation(1908–1913)
+Aldrich–Vreeland Act (1908)
+National Monetary Commission (1909–1912)
+Federal Reserve Act (1913)
+Interwar period(1918–1939)
+Pittman Act (1918)
+Edge Act (1919)
+Phelan Act (1920)
+Regulation D (c. 1930)
+Emergency Banking Act (1933)
+Regulation Q (1933)
+Glass–Steagall Act
+1933; Federal Open Market Committee
+Gold Reserve Act (1934)
+Banking Act of 1935
+Post–WWII expansion(1945–1973)
+Bretton Woods system (1944–1971)
+Employment Act of 1946
+U.S. Treasury Department Accord (1951)
+Bank Holding Company Act (1956)
+FOMC actions (1961–present)
+Truth in Lending Act (1968)
+Nixon shock (1971)
+Smithsonian Agreement (1971)
+The Great Inflation(1973–1982)
+Equal Credit Opportunity Act (1974)
+Home Mortgage Disclosure Act (1975)
+Community Reinvestment Act (1977)
+Federal Reserve Reform Act (1977)
+Electronic Fund Transfer Act (1978)
+Humphrey–Hawkins Full Employment Act (1978)
+International Banking Act (1978)
+DIDMC Act (1980)
+Federal Reserve v. Investment Co. Institute (1981)
+Great Moderation/Great Regression(1982–2007)
+Northeast Bancorp v. Federal Reserve (1985)
+Greenspan put
+Expedited Funds Availability Act (1987)
+FIRRE Act (1989)
+FDIC Improvement Act (1991)
+Gramm–Leach–Bliley Act (1999)
+Digital Revolution(2007–)
+Subprime mortgage crisis responses (2007–2010)
+Emergency Economic Stabilization Act (2008)
+Unfair or Deceptive Acts or Practices (2008)
+Commercial Paper Funding Facility (2008–2010)
+Primary Dealer Credit Facility (2008–2010)
+Bloomberg v. Federal Reserve (2009)
+2009 Supervisory Capital Assessment Program
+Term Asset-Backed Securities Loan Facility (2009–2010)
+Public–Private Investment Program for Legacy Assets (2009–)
+Dodd–Frank Act (2010)
+COVID-19 economic impact (2020)
+Commercial Paper Funding Facility (2020–2021)
+Chairs
+Charles S. Hamlin (1914–1916)
+William P. G. Harding (1916–1922)
+Daniel R. Crissinger (1923–1927)
+Roy A. Young (1927–1930)
+Eugene Meyer (1930–1933)
+Eugene R. Black (1933–1934)
+Marriner S. Eccles (1934–1948)
+Thomas B. McCabe (1948–1951)
+William M. Martin (1951–1970)
+Arthur F. Burns (1970–1978)
+G. William Miller (1978–1979)
+Paul Volcker (1979–1987)
+Alan Greenspan (1987–2006)
+Ben Bernanke (2006–2014)
+Janet Yellen (2014–2018)
+Jerome Powell (2018–present)
+Currentgovernors
+Jerome Powell (Chair)
+Philip Jefferson (Vice Chair)
+Michael Barr (Vice Chair for Supervision)
+Michelle Bowman
+Christopher Waller
+Lisa D. Cook
+Adriana Kugler
+Current presidents(by district)
+Susan Collins (Boston)
+John Williams (New York)
+Patrick T. Harker (Philadelphia)
+Loretta J. Mester (Cleveland)
+Thomas Barkin (Richmond)
+Raphael Bostic (Atlanta)
+Austan Goolsbee (Chicago)
+Kathy O’Neill Paese – Acting (St. Louis)
+Neel Kashkari (Minneapolis)
+Jeff Schmid (Kansas City)
+Lorie Logan (Dallas)
+Mary C. Daly (San Francisco)
+Related
+Central bank
+Criticism of the Federal Reserve
+Fed model
+Fedspeak
+Fed put
+Lender of last resort
+Monetary policy of the United States
+History
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Greenspan_put&oldid=1198338379"
+Categories: 1980s neologismsEconomic history of the United StatesEponymous economic ideologiesMonetary policy of the United StatesMonetary policyOptions (finance)United States economic policyFederal Reserve SystemCriticisms of economicsHidden categories: Articles with short descriptionShort description is different from WikidataCS1 errors: missing periodical
+This page was last edited on 23 January 2024, at 21:29 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

@@ -1,0 +1,613 @@
+List of major stock exchanges - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+Contribute
+HelpLearn to editCommunity portalRecent changesUpload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account Log in
+Pages for logged out editors learn more
+ContributionsTalk
+Contents
+move to sidebar
+hide
+(Top)
+1Major stock exchanges
+2See also
+3References
+Toggle the table of contents
+List of major stock exchanges
+24 languages
+العربيةAsturianuবাংলাDeutschEspañolفارسیFrançais한국어हिन्दीBahasa IndonesiaItalianoمصرىNederlandsनेपाली日本語PolskiPortuguêsRomânăРусскийSvenskaไทยTürkçeУкраїнська中文
+Edit links
+ArticleTalk
+English
+ReadEditView history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+ReadEditView history
+General
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+Print/export
+Download as PDFPrintable version
+From Wikipedia, the free encyclopedia
+(Redirected from List of stock exchange trading hours)
+This article needs to be updated. Please help update this article to reflect recent events or newly available information. (May 2021)
+This is a list of major stock exchanges. Those futures exchanges that also offer trading in securities besides trading in futures contracts may be listed both here and in the list of futures exchanges.
+There are twenty one stock exchanges in the world that have a market capitalization of over US$1 trillion each. They are sometimes referred to as the "$1 Trillion Club". These exchanges accounted for 87% of global market capitalization in 2016. Some exchanges do include companies from outside the country where the exchange is located.
+Major stock exchanges[edit]
+Major stock exchange groups (the current top 20 by market capitalization and over USD 1 trillion market cap) of issued shares of listed companies ("MIC" = market identifier code)
+Year
+Stock exchange
+MIC
+Region
+City
+Market cap(USD tn)
+Monthly trade volume(USD bn)
+Time zone
+DST
+Open hours (local time)
+UTC, winter only
+Open
+Close
+Lunch
+Open
+Close
+2023
+New York Stock Exchange
+XNYS
+United States
+New York City
+25.00
+1,452
+EST/EDT
+−5:00
+Mar–Nov
+09:30
+16:00
+No
+14:30
+21:00
+2023
+Nasdaq
+XNAS
+United States
+New York City
+21.70
+1,262
+EST/EDT
+−5:00
+Mar–Nov
+09:30
+16:00
+No
+14:30
+21:00
+2023
+Euronext
+XAMSXBRUXMSMXLISXMILXOSLXPAR
+Europe
+AmsterdamBrusselsDublinLisbonMilanOsloParis
+7.20
+174
+CET/CEST
++1:00
+Mar–Oct
+09:00
+17:30
+No
+08:00
+16:30
+2023
+Shanghai Stock Exchange
+XSHG
+China
+Shanghai
+6.70
+536
+CST
++8:00
+09:30
+15:00
+11:30–13:00
+01:30
+07:00
+2023
+Japan Exchange Group(Tokyo Stock Exchange)
+XJPX(TYO)
+Japan
+Tokyo
+6.54
+JST
++9:00
+09:00
+15:00
+11:30–12:30
+00:00
+06:00
+2023
+Shenzhen Stock Exchange
+XSHE
+China
+Shenzhen
+6.22
+CST
++8:00
+09:30
+15:00
+11:30–13:00
+01:30
+07:00
+2023
+National Stock Exchange
+XNSE
+India
+Mumbai
+4.5
+481
+IST
++5:30
+09:15
+15:30
+No
+03:45
+10:00
+2023
+Bombay Stock Exchange
+XBOM
+India
+Mumbai
+4.5
+IST
++5:30
+09:15
+15:30
+No
+03:45
+10:00
+2023
+Hong Kong Stock Exchange
+XHKG
+Hong Kong
+Hong Kong
+3.98
+182
+HKT
++8:00
+09:30
+16:00
+12:00–13:00
+01:30
+08:00
+10
+2023
+Toronto Stock Exchange
+XTSE
+Canada
+Toronto
+3.26
+97
+EST/EDT
+−5:00
+Mar–Nov
+09:30
+16:00
+No
+14:30
+21:00
+11
+2023
+London Stock Exchange
+XLON
+United Kingdom
+London
+3.18
+219
+GMT/BST
++0:00
+Mar–Oct
+08:00
+16:30
+No
+08:00
+16:30
+12
+2022
+Saudi Stock Exchange (Tadawul)
+XSAU
+Saudi Arabia
+Riyadh
+2.71
+AST
++3:00
+10:00
+15:00
+No
+07:00
+12:00
+13
+2023
+German Stock Exchange (Deutsche Börse AG)
+XFRA
+Germany
+Frankfurt
+2.37
+140
+CET/CEST
++1:00
+Mar–Oct
+08:00 (Eurex)08:00 (floor)09:00 (Xetra)
+22:00 (Eurex)20:00 (floor)17:30 (Xetra)
+No
+07:00
+21:00
+14
+2023
+SIX Swiss Exchange
+XSWX
+Switzerland
+Zürich
+1.95
+77
+CET/CEST
++1:00
+Mar–Oct
+09:00
+17:30
+No
+08:00
+16:30
+15
+2023
+Nasdaq Nordic and Baltic Exchanges
+Europe
+1.94
+72
+Copenhagen Stock Exchange
+XCSE
+Denmark
+Copenhagen
+CET/CEST
++1:00
+Mar–Oct
+09:00
+17:00
+08:00
+16:00
+Stockholm Stock Exchange
+XSTO
+Sweden
+Stockholm
+CET/CEST
++1:00
+Mar–Oct
+09:00
+17:30
+08:00
+16:30
+Helsinki Stock Exchange
+XHEL
+Finland
+Helsinki
+EET/EEST
++2:00
+Mar–Oct
+10:00
+18:30
+08:00
+16:30
+Tallinn Stock Exchange
+XTAL
+Estonia
+Tallinn
+EET/EEST
++2:00
+Mar–Oct
+10:00
+16:00
+08:00
+14:00
+Riga Stock Exchange
+XRIS
+Latvia
+Riga
+EET/EEST
++2:00
+Mar–Oct
+10:00
+16:00
+08:00
+14:00
+Vilnius Stock Exchange
+XLIT
+Lithuania
+Vilnius
+EET/EEST
++2:00
+Mar–Oct
+10:00
+16:00
+08:00
+14:00
+Iceland Stock Exchange
+XICE
+Iceland
+Reykjavík
+GMT
++0:00
+09:30
+15:30
+09:30
+15:30
+16
+2023
+Korea Exchange
+XKOS
+South Korea
+SeoulBusan
+1.83
+277
+KST
++9:00
+09:00
+15:30
+No
+00:00
+06:30
+17
+2023
+Taiwan Stock Exchange
+XTAI
+Taiwan
+Taipei
+1.59
+75
+NST (Taiwan)
++8:00
+09:00
+13:30
+No
+01:00
+05:30
+18
+2022
+Australian Securities Exchange
+XASX
+Australia
+Sydney
+1.55
+AEST/AEDT
++10:00
+Oct–Apr
+10:00
+16:00
+No
+00:00
+06:00
+19
+2022
+Johannesburg Stock Exchange
+XJSE
+South Africa
+Johannesburg
+1.36
+29
+SAST
++2:00
+09:00
+17:00
+No
+07:00
+15:00
+20
+2023
+Tehran Stock Exchange
+XTEH
+Iran
+Tehran
+1.29
+* Note: "Δ" to UTC, as well as "Open (UTC)" and "Close (UTC)" columns contain valid data only for standard time in a given time zone. During daylight saving time period, the UTC times will be one hour less and Δs one hour more.
+**Applicable for non-closing auction session shares only.
+New YorkShanghaiEuronextTokyoShenzhenHong KongLondonMumbaiTorontoRiyadhclass=notpageimage| The 12 largest stock exchanges (New York and Mumbai have two exchanges each). At 18th, the Australian Securities Exchange is the largest in the southern hemisphere.
+See also[edit]
+Money portal
+List of African stock exchanges
+List of stock exchanges in the Americas
+List of Asian stock exchanges
+List of European stock exchanges
+List of stock exchanges in Oceania
+List of countries by stock market capitalization
+List of countries without a stock exchange
+List of futures exchanges
+World Federation of Exchanges
+Federation of Euro-Asian Stock Exchanges
+References[edit]
+^ "All of the World's Stock Exchanges by Size". The Money Project. 16 February 2016. Retrieved 17 April 2016.
+^ "Largest stock exchange operators by market cap 2022". Statista. Retrieved 2023-01-14.
+^ "Top 10 Stock Exchanges in the World 2023". Edu Dwar. 14 August 2023. Retrieved 2023-08-14.
+^ "Market Statistics - Focus | The World Federation of Exchanges". focus.world-exchanges.org. Retrieved 2023-04-09.
+^ "21 Largest Stock Exchanges in the World". Yahoo Finance. 27 March 2023. Retrieved 2023-06-20.
+vteFinancial marketsTypes of markets
+Primary market
+Secondary market
+Third market
+Fourth market
+Types of stocks
+Common stock
+Golden share
+Preferred stock
+Restricted stock
+Tracking stock
+Share capital
+Authorised capital
+Issued shares
+Shares outstanding
+Treasury stock
+Participants
+Broker
+Floor broker
+Inter-dealer broker
+Broker-dealer
+Market maker
+Trader
+Floor trader
+Proprietary trader
+Quantitative analyst
+Investor
+Hedger
+Speculator
+Arbitrager
+Scalper
+Regulator
+Trading venues
+Exchange
+List of stock exchanges
+Trading hours
+Over-the-counter (off-exchange)
+Alternative Trading System (ATS)
+Multilateral trading facility (MTF)
+Electronic communication network (ECN)
+Direct market access (DMA)
+Straight-through processing (STP)
+Dark pool (private exchange)
+Crossing network
+Liquidity aggregator
+Stock valuation
+Alpha
+Arbitrage pricing theory (APT)
+Beta
+Buffett indicator (Cap-to-GDP)
+Book value (BV)
+Capital asset pricing model (CAPM)
+Capital market line (CML)
+Dividend discount model (DDM)
+Dividend yield
+Earnings yield
+EV/EBITDA
+Fed model
+Net asset value (NAV)
+Security characteristic line
+Security market line (SML)
+T-model
+Trading theories and strategies
+Algorithmic trading
+Buy and hold
+Contrarian investing
+Dollar cost averaging
+Efficient-market hypothesis (EMH)
+Fundamental analysis
+Growth stock
+Market timing
+Modern portfolio theory (MPT)
+Momentum investing
+Mosaic theory
+Pairs trade
+Post-modern portfolio theory (PMPT)
+Random walk hypothesis (RMH)
+Sector rotation
+Style investing
+Swing trading
+Technical analysis
+Trend following
+Value averaging
+Value investing
+Related terms
+Bid–ask spread
+Block trade
+Cross listing
+Dividend
+Dual-listed company
+DuPont analysis
+Efficient frontier
+Financial law
+Flight-to-quality
+Government bond
+Greenspan put
+Haircut
+Initial public offering (IPO)
+Long
+Mandatory offer
+Margin
+Market anomaly
+Market capitalization
+Market depth
+Market manipulation
+Market trend
+Mean reversion
+Momentum
+Open outcry
+Order book
+Position
+Public float
+Public offering
+Rally
+Returns-based style analysis
+Reverse stock split
+Share repurchase
+Short selling
+Slippage
+Speculation
+Squeeze-out
+Stock dilution
+Stock exchange
+Stock market index
+Stock split
+Stock swap
+Trade
+Tender offer
+Uptick rule
+Volatility
+Voting interest
+Yield
+vteLargest stock exchanges by market capitalization
+New York Stock Exchange
+Nasdaq
+Shanghai Stock Exchange
+Euronext
+Japan Exchange Group
+Hong Kong Stock Exchange
+Shenzhen Stock Exchange
+Bombay Stock Exchange
+National Stock Exchange of India
+London Stock Exchange Group
+Toronto Stock Exchange
+Deutsche Börse
+Tadawul
+Nasdaq Nordic
+Korea Exchange
+SIX Swiss Exchange
+Taiwan Stock Exchange
+Australian Securities Exchange
+Tehran Stock Exchange
+B3
+JSE Limited
+BME Spanish Exchanges
+Singapore Exchange
+Moscow Exchange
+Stock Exchange of Thailand
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_major_stock_exchanges&oldid=1218179959"
+Category: Lists of stock exchangesHidden categories: Articles with short descriptionShort description is different from WikidataWikipedia articles in need of updating from May 2021All Wikipedia articles in need of updating
+This page was last edited on 10 April 2024, at 05:55 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width
